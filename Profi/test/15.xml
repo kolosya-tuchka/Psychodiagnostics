@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>       
+       <question id="1" name="1.Что для вас более важно:">
+            <variants>
+                 <variant id="1" text="много знать" character="2"/>
+                 <variant id="2" text="создавать материальные блага." character="6"/>
+            </variants>
+        </question>
+       <question id="2" name="2.Что вас больше привлекает при чтении книг:">
+            <variants>
+                 <variant id="1" text="прекрасный литературный стиль" character="4"/>
+                 <variant id="2" text="яркое изображение смелости и храбрости героев" character="5"/>
+            </variants>
+        </question>
+       <question id="3" name="3.Какое вознаграждение вас больше бы обрадовало:">
+            <variants>
+                 <variant id="1" text="за научное изобретение" character="2"/>
+                 <variant id="2" text="за общественную деятельность" character="1"/>
+            </variants>
+        </question>
+       <question id="4" name="4.Если бы вам представилась возможность занять определённый пост, какой бы вы выбрали:">
+            <variants>
+                 <variant id="1" text="директора универмага" character="6"/>
+                 <variant id="2" text="главного инженера завода" character="3"/>
+            </variants>
+        </question>
+       <question id="5" name="5.Что, на ваш взгляд, следует больше ценить у участников самодеятельности:">
+            <variants>
+                 <variant id="1" text="то, что они несут людям искусство и красоту;" character="4"/>
+                 <variant id="2" text="то, что они выполняют общественно полезную работу" character="1"/>
+            </variants>
+        </question>
+       <question id="6" name="6.Какая, на ваш взгляд, область деятельности человека в дальнейшем будет иметь доминирующее значение:">
+            <variants>
+                 <variant id="1" text="физика; " character="2"/>
+                 <variant id="2" text="физическая культура" character="5"/>
+            </variants>
+        </question>
+       <question id="7" name="7.Если бы вам предоставили пост директора школы, на что бы вы обратили больше внимания:">
+            <variants>
+                 <variant id="1" text="на создание необходимых удобств; " character="6"/>
+                 <variant id="2" text="на сплочённость коллектива." character="1"/>
+            </variants>
+        </question>
+       <question id="8" name="8.Представьте, что вы на выставке. Что вас больше привлекает в экспонатах:">
+            <variants>
+                 <variant id="1" text="цвет, совершенство форм" character="4"/>
+                 <variant id="2" text="их внутреннее устройство (как и из чего они сделаны). " character="3"/>
+            </variants>
+        </question>
+       <question id="9" name="9.Какие черты характера в человеке вам больше всего нравятся: ">
+            <variants>
+                 <variant id="1" text="мужество, смелость, выносливость" character="5"/>
+                 <variant id="2" text="дружелюбие, чуткость, отсутствие корысти" character="1"/>
+            </variants>
+        </question>
+       <question id="10" name="10.Представьте, что вы профессор университета. Чему вы бы отдали предпочтение в свободное от работы время: ">
+            <variants>
+                 <variant id="1" text="занятиям по литературе; " character="4"/>
+                 <variant id="2" text="опытам по физике, химии. " character="2"/>
+            </variants>
+        </question>
+       <question id="11" name="11.Вам предоставляется возможность совершить путешествие в разные страны. В качестве кого вы охотнее бы поехали: ">
+            <variants>
+                 <variant id="1" text="как известный спортсмен на международные соревнования" character="5"/>
+                 <variant id="2" text="как известный специалист по внешней торговле для закупки необходимых товаров для нашей страны. " character="6"/>
+            </variants>
+        </question>
+       <question id="12" name="12.В газете две статьи разного содержания. Какая из них вызвала бы у вас большую заинтересованность: ">
+            <variants>
+                 <variant id="1" text="о машине нового типа; " character="3"/>
+                 <variant id="2" text="о новой научной теории. " character="2"/>
+            </variants>
+        </question>
+       <question id="13" name="13.Вы смотрите военный или спортивный парад. Что больше привлекает ваше внимание: ">
+            <variants>
+                 <variant id="1" text="слаженность ходьбы, грациозность участников парада" character="5"/>
+                 <variant id="2" text="внешнее оформление колонн (знамёна, одежда и т.д.). " character="4"/>
+            </variants>
+        </question>
+       <question id="14" name="14.Представьте, что у вас много свободного времени. Чем бы вы охотнее занялись: ">
+            <variants>
+                 <variant id="1" text="чем-либо практическим (ручным трудом" character="3"/>
+                 <variant id="2" text="общественной работой (на добровольных началах). " character="1"/>
+            </variants>
+        </question>
+       <question id="15" name="15.Какую выставку вы бы с большим удовольствием посмотрели: ">
+            <variants>
+                 <variant id="1" text="новых продовольственных товаров" character="6"/>
+                 <variant id="2" text="новинок научной аппаратуры (в области химии, физики, биологии)." character="2"/>
+            </variants>
+        </question>
+       <question id="16" name="16.Если бы в школе было два кружка, какой бы вы выбрали">
+            <variants>
+                 <variant id="1" text="технический; " character="3"/>
+                 <variant id="2" text="музыкальный" character="4"/>
+            </variants>
+        </question>
+       <question id="17" name="17.Как вам кажется, на что следовало бы в школе обратить большее внимание: ">
+            <variants>
+                 <variant id="1" text="на успеваемость учащихся, так как это необходимо для их будущего" character="1"/>
+                 <variant id="2" text="на спорт, так как это нужно для укрепления здоровья. " character="5"/>
+            </variants>
+        </question>
+       <question id="18" name="18.Какие журналы вы бы с большим удовольствием читали: ">
+            <variants>
+                 <variant id="1" text="научно-популярные" character="2"/>
+                 <variant id="2" text="литературно-художественные" character="4"/>
+            </variants>
+        </question>
+       <question id="19" name="19.Какая из двух работ на свежем воздухе вас больше бы привлекла: ">
+            <variants>
+                 <variant id="1" text="работа с машинами" character="3"/>
+                 <variant id="2" text="работа, связанная с постоянными передвижениями (агроном, лесничий, дорожный мастер). " character="5"/>
+            </variants>
+        </question>
+       <question id="20" name="20.Какая, на ваш взгляд, задача школы важнее: ">
+            <variants>
+                 <variant id="1" text="подготовить учащихся к практической деятельности, к умению самим создавать материальные блага; " character="6"/>
+                 <variant id="2" text="подготовить учащихся к работе с людьми, чтобы они могли помогать другим создавать материальные блага." character="1"/>
+            </variants>
+        </question>
+       <question id="21" name="21.Какими выдающимися учёными вы больше интересуетесь: ">
+            <variants>
+                 <variant id="1" text="Поповым и Циолковским; " character="3"/>
+                 <variant id="2" text="Менделеевым и Павловым" character="2"/>
+            </variants>
+        </question>
+       <question id="22" name="22.Что важнее для человека: ">
+            <variants>
+                 <variant id="1" text="создавать себе благополучный, удобный быт; " character="6"/>
+                 <variant id="2" text="жить без некоторых удобств, но иметь возможность пользоваться сокровищницей искусства." character="4"/>
+            </variants>
+        </question>
+       <question id="23" name="23.Для благополучия общества необходимо: ">
+            <variants>
+                 <variant id="1" text="правосудие; " character="1"/>
+                 <variant id="2" text="техника. " character="3"/>
+            </variants>
+        </question>
+       <question id="24" name="24.Какую из двух книг вы бы с большим удовольствием читали: ">
+            <variants>
+                 <variant id="1" text="о достижениях спортсменов; " character="5"/>
+                 <variant id="2" text="о развитии промышленности. " character="6"/>
+            </variants>
+        </question>
+       <question id="25" name="25.Что принесёт больше пользы обществу: ">
+            <variants>
+                 <variant id="1" text="забота о благосостоянии граждан;" character="1"/>
+                 <variant id="2" text="изучение поведения людей." character="2"/>
+            </variants>
+        </question>
+       <question id="26" name="26.Служба быта оказывает людям разные услуги. Считаете ли вы необходимым: ">
+            <variants>
+                 <variant id="1" text="дальше развивать эту отрасль, чтобы всесторонне обслуживать людей; " character="6"/>
+                 <variant id="2" text="создавать такую технику, которой можно было бы самим пользоваться В быту. " character="3"/>
+            </variants>
+        </question>
+       <question id="27" name="27.Какие лекции вы слушали бы с большим удовольствием: ">
+            <variants>
+                 <variant id="1" text=" о выдающихся учёных" character="1"/>
+                 <variant id="2" text="о выдающихся художниках." character="4"/>
+            </variants>
+        </question>
+       <question id="28" name="28.Какого характера научную работу вы бы выбрали: ">
+            <variants>
+                 <variant id="1" text="работу с книгами в библиотеке" character="2"/>
+                 <variant id="2" text="работу на свежем воздухе в экспедиции" character="5"/>
+            </variants>
+        </question>
+       <question id="29" name="29.Что вас больше заинтересовало бы в печати: ">
+            <variants>
+                 <variant id="1" text="известие о выигрыше денежно-вещевой лотереи; " character="6"/>
+                 <variant id="2" text="сообщение о состоявшейся художественной выставке." character="4"/>
+            </variants>
+        </question>
+       <question id="30" name="30.Вам предоставляется возможность выбора профессии. Какой из них вы бы отдали предпочтение:">
+            <variants>
+                 <variant id="1" text="физической культуре или другой работе, связанной с движением; " character="5"/>
+                 <variant id="2" text="работе малоподвижной, но связанной с созданием новой техники." character="3"/>
+            </variants>
+        </question>
+    </questions>
+</root>

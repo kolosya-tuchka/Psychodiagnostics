@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Свои слова всегда потверждают делом." character="1">
+		  <variants>
+                <variant id="1" text="имеет к нашему коллективу" />
+				 <variant id="2" text="не имеет к нашему коллективу" />
+              
+            </variants>
+          	</question>
+			
+        <question id="2" name="2. Осуждают проявления индивидуализма." character="2">
+	</question>
+        <question id="3" name="3. Имеют одинаковые убеждения." character="3">
+	</question>
+        <question id="4" name="4. Радуються успехам друг друга." character="4">
+	</question>
+        <question id="5" name="5. Всегда оказывают помощь друг другу." character="5">
+	</question>
+        <question id="6" name="6. умело взаимодействуют друг с другом в работе." character="6">
+	</question>
+        <question id="7" name="7. Знают  задачи, стоящие перед коллективом." character="7">
+	</question>
+        <question id="8" name="8. Требовательны друг к другу." character="1">
+	</question>
+        <question id="9" name="9. Все вопросы решают сообща." character="2">
+	</question>
+        <question id="10" name="10. Единадушны в оценке стоящих перед коллективом проблем." character="3">
+	</question>
+        <question id="11" name="11. Доверяют друг другу." character="8">
+	</question>
+        <question id="12" name="12. Делятся опытом работы с членами коллектива . " character="5">
+	</question>
+        <question id="13" name="13. Никогда и ни в чем не ошибаются." character="6">
+	</question>
+        <question id="14" name="14. Бесконфликтно распределяют между собой обязанности. "  character="8">
+	</question>
+        <question id="15" name="15. Знают итоги работы коллектива." character="2">
+	</question>
+        <question id="16" name="16. Объективно оценивают свои успехи и неудачи." character="4">
+	</question>
+        <question id="17" name="17. Личные интересы подчиняют интересам коллектива." character="7">
+	</question>
+        <question id="18" name="18. Занимаются на досуге одним и тем же. " character="6">
+	</question>
+        <question id="19" name="19. Защищают друг друга." character="7">
+	</question>
+        <question id="20" name="20. Всегда считаются с интересами друг друга. " character="6">
+	</question>
+        <question id="21" name="21. Заменяют друг друга в работе." character="6">
+	</question>
+        <question id="22" name="22. Знают положительные и отрицательные стороны коллектива. " character="7">
+	</question>
+        <question id="23" name="23. Работают с полной отдачей сил." character="2">
+	</question>
+        <question id="24" name="24. Не остаются равнодушными, если задеты интересы коллектива ." character="4">
+	</question>
+        <question id="25" name="25. Одинаково оценивают распределения обязанностей." character="3">
+	</question>
+        <question id="26" name="26. Помагают друг другу." character="5">
+	</question>
+        <question id="27" name="27. Предъявляют одинаково объективные требования ко всем членам коллектива." character="1">
+	</question>
+        <question id="28" name="28. Самостоятельно выявляют и исправляют недостатки в работе." character="8">
+	</question>
+        <question id="29" name="29. Знают правила поведения в коллектива." character="1">
+	</question>
+        <question id="30" name="30. Никогда и ни в чем не сомневаются." character="4">
+	</question>
+        <question id="31" name="31. Не бросают начатое дело на полпути." character="8">
+	</question>
+        <question id="32" name="32. Отсутствуют принятые в коллективе нормы поведения." character="7">
+	</question>
+        <question id="33" name="33. Одинаково оценивают успехи коллектива." character="3">
+	</question>
+        <question id="34" name="34. Искренне огорчаются при неудаче товарищей." character="2">
+	</question>
+        <question id="35" name="35. Одинаково объективно оценивают поступки старых и новых членах коллектива." character="5">
+	</question>
+        <question id="36" name="36. Быстро разрешают вознткающие противоречия  и  конфликты ." character="4">
+	</question>
+        <question id="37" name="37. Знают свои обязанности." character="3">
+	</question>
+        <question id="38" name="38. Сознательно подчиняются дисциплине." character="1">
+	</question>
+        <question id="39" name="39. Верят в свой коллектив." character="1">
+	</question>
+      	    <question id="40" name="40. Одинаково оценивают неудачи коллектива." character="2">
+	</question>
+	  <question id="41" name="41. Тактично ведут себя в отношении друг друга." character="2">
+	</question>
+	  <question id="42" name="42. Не подчеркивают своих преимуществ друг перед другом." character="2">
+	</question>
+	  <question id="43" name="43. Быстро находят между собой общий язык." character="2">
+	</question>
+	  <question id="44" name="44. Знают основные приемы и методы работы." character="2">
+	</question>
+	  <question id="45" name="45. Всегда и во всем правы." character="2">
+	</question>
+	  <question id="46" name="46. Общественные отношения ставят выше личных ." character="2">
+	</question>
+	  <question id="47" name="47. Поддерживают полезные для коллектива начинания." character="2">
+	</question>
+	  <question id="48" name="48. Имеют одинаковые представления о нормах нравственности ." character="2">
+	</question>
+	 <question id="49" name="49. Доброжелательно относяться  друг к другу." character="2">
+	</question>
+	  <question id="50" name="50. Тактично ведут себя по отношению к членам другого коллектива." character="2">
+	</question>
+	  <question id="51" name="51. Берут на себя руководство, если требуется." character="2">
+	</question>
+	  <question id="52" name="52. Знают работу товарищей." character="2">
+	</question>
+	  <question id="53" name="53. По-хозяйски относятся к общественному добру." character="2">
+	</question>
+	  <question id="54" name="54. Поддерживают традиции, сложившиеся в коллективе." character="2">
+	</question>
+	  <question id="55" name="55. Одинаково оценивают качества личности, необходимые в коллективе ." character="2">
+	</question>
+	  <question id="56" name="56. Уважают друг друга." character="2">
+	</question>
+	  <question id="57" name="57. Тесно сотрудничают с членами другого коллектива." character="2">
+	</question>
+	  <question id="58" name="58. При необходимости принимают на себя обязанности других членов коллектива." character="2">
+	</question>
+	  <question id="59" name="59. Знают черты характера друг друга." character="2">
+	</question>
+	  <question id="60" name="60. Умеют делать все на свете." character="2">
+	</question>
+	  <question id="61" name="61. Ответственно выполняют любую работу." character="2">
+	</question>
+	 <question id="62" name="62. Оказывают сопротивление силам, разобщающим коллектив." character="2">
+	</question> 
+	<question id="63" name="63. Одинаково оценивают  правильность распределения поощрения в коллективе." character="2">
+	</question> 
+	<question id="64" name="64. Поддерживают друг друга в трудную минуту." character="2">
+	</question> 
+	<question id="65" name="65. Радуються успехам членов другого коллектива." character="2">
+	</question> 
+	<question id="66" name="66. Действуют слаженно и организованно в сложных ситуациях." character="2">
+	</question> 
+	<question id="67" name="67. Знают привычки и склонности друг друга." character="2">
+	</question> 
+	<question id="68" name="68. Активно участвуют в общественной работе." character="2">
+	</question> 
+	<question id="69" name="69. Заботятся об успехах коллектива." character="2">
+	</question>
+	<question id="70" name="70. Одинаково оценивают правильность наказаний в коллективе." character="2">
+	</question> 
+	<question id="71" name="71. Внимательно относятся друг к другу." character="2">
+	</question> 
+	<question id="72" name="72. Искренне огорчаются при неудачах членов другого коллектива." character="2">
+	</question>
+	<question id="73" name="73. Быстро находят такое распределение обязанностей, которое устраевает всех." character="2">
+	</question>
+	<question id="74" name="74. Знают, как обстоят дела друг к друга ." character="2">
+	</question>
+    </questions>
+</root>

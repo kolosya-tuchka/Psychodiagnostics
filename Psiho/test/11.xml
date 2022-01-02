@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a)  Иногда  я предоставляю возможность другим взять на себя ответственность за решение спорного вопроса." character="4" />
+                <variant id="2" text="b) Вместо того чтобы обсуждать то, в чем  мы расходимся, я стараюсь обратить внимание на то с чем мы оба согласны." character="5"/>
+
+		            </variants>
+	</question>
+	<question id="2" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я стараюсь найти компромиссное решение." character="3" />
+                <variant id="2" text="b) я пытаюсь уладить дело с учетом  интересов другого и моих собственных ." character="2" />
+
+		            </variants>
+	</question>
+	<question id="3" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) обычно я настойчиво стремлюсь добиться своего ." character="1"/>
+                <variant id="2" text="b) я стараюсь успокоить другого и главным образом сохранить наши отношения." character="5" />
+
+		            </variants>
+	</question>
+	<question id="4" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я стараюсь найти компромиссное решение." character="3"/>
+                <variant id="2" text="b) иногда я жертвую собственными интересами ради интересов другого человека." character="5" />
+
+		            </variants>
+	</question>
+	<question id="5" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) Улаживая спорную ситуацию, я все время стараюсь найти поддержку  у другого." character="2" />
+                <variant id="2" text="b)  я стараюсь сделать все, чтобы избежатьбесполезной напряженности." character="4"/>
+
+		            </variants>
+	</question>
+	<question id="6" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я пытаюсь избежать возникновения неприятностей для себя." character="4" />
+                <variant id="2" text="b) я стараюсь добиться своего." character="1"/>
+
+		            </variants>
+	</question>
+	<question id="7" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я стараюсь отложить решение спорного вопроса, с тем чтобы со временем решить его окончательно." character="4"/>
+                <variant id="2" text="b) я считаю возможным в чем-то уступить, чтобы добиться главного." character="3" />
+
+		            </variants>
+	</question>
+	<question id="8" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) обычно я настойчиво стремлюсь добиться своего." character ="1"/>
+                <variant id="2" text="b) я первым делом стараюсь ясно определить то, в чем состоят затронутые интересы и вопросы." character="2" />
+
+		            </variants>
+	</question>
+	<question id="9" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) думаю, что не всегда стоитволноваться из-за каких-то возникающих разногласий." character="4"/>
+                <variant id="2" text="b) я препринимаю усилия, чтобы добиться своего." character="1" />
+
+		            </variants>
+	</question>
+	<question id="10" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я твердо стремлюсь достичь своего." character="1"/>
+                <variant id="2" text="b) я пытаюсь найти компромиссное решение." character= "3"/>
+
+		            </variants>
+	</question>
+	<question id="11" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) первым делом я стараюсь ясно определить то, в чем состоят затронутые интересы и вопросы." character="2" />
+                <variant id="2" text="b) я стараюсь успокоить другого и главным образом сохранить наши отношения." character="5" />
+
+		            </variants>
+	</question>
+	<question id="12" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) зачистую я избегаю занимать позицию, которая может вызвать споры." character="4" />
+                <variant id="2" text="b) я даю возможность другому в чем-то остаться при своем мнении, если он также идет мне навстречу." character="3" />
+
+		            </variants>
+	</question>
+	<question id="13" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я предлагаю среднюю позицию."  character="3"/>
+                <variant id="2" text="b) я настаиваю, чтобы было сделано по-моему." character="1" />
+
+		            </variants>
+	</question>
+	<question id="14" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я сообщаю другому свою точку зрения и спрашиваю о его взглядах." character="2"/>
+                <variant id="2" text="b) я пытаюсь показать другому логику и преимущества моих взглядов." character="1"/>
+
+		            </variants>
+	</question>
+	<question id="15" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я стараюсь успокоить другого и главнымм образом сохранить наши отношения." character="5"/>
+                <variant id="2" text="b) я стараюсь сделать все необходимое, чтобы избежать напряженности." character="4"/>
+
+		            </variants>
+	</question>
+	<question id="16" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я стараюсь не задеть чувств другого." character="5"/>
+                <variant id="2" text="b)  я пытаюсь убедить другого в преимуществах  моих позиций." character="1"/>
+
+		            </variants>
+	</question>
+	<question id="17" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) обычно я настойчиво стараюсь добиться своего ." character="1" />
+                <variant id="2" text="b) я стараюсь сделать все, чтобы избежать бесполезной напряженности." character="4" />
+
+		            </variants>
+	</question>
+	<question id="18" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) если это сделает другого счастливым, я дам ему возможность настоять на своем." character="5"/>
+                <variant id="2" text="b) я даю возможность другому в чем-то остаться при своем мнении, если он также идет мне навстречу." character="3" />
+
+		            </variants>
+	</question>
+	<question id="19" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) первым делом я стараюсь ясно определить то, в чем состоят затронутые интересы и вопросы." character ="2"/>
+                <variant id="2" text="b) я стараюсь отложить решение спорного вопроса, с тем чтобы со временем решить его окончательно." character="4" />
+
+		            </variants>
+	</question>
+	<question id="20" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я пытаюсь немедленно преодолеть наши разногласия." character="2"/>
+                <variant id="2" text="b) я стараюсь найти наилучшее сочетание выгод и потерь для нас обоих." character="3"/>
+
+		            </variants>
+	</question>
+	<question id="21" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) ведя переговоры, я стараюсь быть внимательным к желаниям другого." character="5" />
+                <variant id="2" text="b) я всегда склоняюсь к прамому обсуждению проблемы." character="2" />
+
+		            </variants>
+	</question>
+	<question id="22" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я пытаюсь найти позицию, которая находится посредине между моей позицией и точкой зрения другого человека." character="3" />
+                <variant id="2" text="b) я отстаиваю свои требования." character="1"/>
+
+		            </variants>
+	</question>
+	<question id="23" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) как правило, я озобочен тем, чтобы удовлетворить желания каждого из нас." character="2"/>
+                <variant id="2" text="b) иногда я предоставляю возможность другим взять на себя ответственность за решение спорного вопроса." character="4"/>
+
+		            </variants>
+	</question>
+	<question id="24" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) если позиция другого кажется ему очень важной,я постараюсь пойти навстречу его желаниям." character="5" />
+                <variant id="2" text="b) я стараюсь убедить другого прийти к компрмиссу." character="3"/>
+
+		            </variants>
+	</question>
+	<question id="25" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я пытаюсь показать другому логику и преимущества моих взглядов." character="1"/>
+                <variant id="2" text="b) ведя переговоры, я стараюсь быть внимательным к желаниям другого." character="5"/>
+
+		            </variants>
+	</question>
+	<question id="26" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я предлагаю среднюю позицию." character="3"/>
+                <variant id="2" text="b) я почти всегда озобочен тем, чтобы удовлетворить желания каждого из нас ." character="2"/>
+
+		            </variants>
+	</question>
+	<question id="27" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) зачастую я избегаю занимать позицию, которая может вызвать спор." character="4" />
+                <variant id="2" text="b) если это сделает другого человека счастливым, я дам ему возможность настоять на своем." character="5"/>
+
+		            </variants>
+	</question>
+	<question id="28" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) обычно я настойчиво добиваюсь своего ." character="1"/>
+                <variant id="2" text="b) улаживая ситуацию, я обычно стараюсь найти поддержку у другого." character="2" />
+
+		            </variants>
+	</question>
+	<question id="29" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я предлагаю среднюю позицию." character="3"/>
+                <variant id="2" text="b) думаю, что не всегда стоит волноваться из-за каких-то возникающих разногласий ." character="4"/>
+
+		            </variants>
+	</question>
+	<question id="30" name="Выбрать одно из двух суждений">
+            <variants>
+                <variant id="1" text="a) я стараюсь не задеть чувств другого." character="5"/>
+                <variant id="2" text="b) я всегда занимаю такую позицию в спорном вопросе, чтобы мы совместно с другим заинтересованнным человеком могли добиться успеха."  character="2"/>
+
+		            </variants>
+	</question>
+	    </questions>
+</root>

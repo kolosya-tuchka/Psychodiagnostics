@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Галька относится к пляжу, как дерево к:" character="1">
+            <variants>
+                <variant id="1" text="лесу" />
+                <variant id="2" text="берегу"/>
+		<variant id="1" text="зеленой изгороди" />
+                <variant id="2" text="саду"/>
+            </variants>
+	</question>
+        
+       <question name="2. Проворный противоположен:  " character="2" >
+        <variants>
+                <variant id="1" text="унылому" />
+                <variant id="2" text="медлительному"/>
+		<variant id="1" text="пропущенному" />
+                <variant id="2" text="отвергнутому"/>
+            </variants>   
+	</question>
+
+	 <question name="3. Свинья относится к бекону как овца к:" character="3" >
+	<variants>
+                <variant id="1" text="яйцам" />
+                <variant id="2" text="мясу"/>
+		<variant id="1" text="баранине" />
+                <variant id="2" text="животному"/>
+            </variants>
+           
+	</question>
+
+	 <question name="4. Какое слово ближе всего по значению к щепке? " character="1" >
+	<variants>
+                <variant id="1" text="фрагмент" />
+                <variant id="2" text="картофелина"/>
+		<variant id="1" text="древесина" />
+                <variant id="2" text="плечо"/>
+            </variants>
+           
+	</question>
+
+	 <question name="5. Рассвет относится к полудню, как сумерки к:" character="2" >
+	<variants>
+                <variant id="1" text="ночи" />
+                <variant id="2" text="полуночи"/>
+		<variant id="1" text="темноте" />
+                <variant id="2" text="вечеру"/>
+            </variants>
+
+           
+	</question>
+
+       <question name="6. Собака относится к шкуре как рыба к:" character="1" >
+	<variants>
+                <variant id="1" text="чешуе" />
+                <variant id="2" text="перьям"/>
+		<variant id="1" text="хвосту" />
+                <variant id="2" text="плавникам"/>
+            </variants>
+           
+	</question>
+
+	 <question name="7. Что еще можно назвать хвостом?" character="2" >
+	<variants>
+                <variant id="1" text="животное" />
+                <variant id="2" text="очередь"/>
+		<variant id="1" text="дорожное движение" />
+                <variant id="2" text="самолет"/>
+            </variants>
+           
+	</question>
+
+	 <question name="8. Носок относится к ноге, как перчатка к:" character="3" >
+	<variants>
+                <variant id="1" text="покрывалу" />
+                <variant id="2" text="пальцам"/>
+		<variant id="1" text="руке" />
+                <variant id="2" text="карману"/>
+            </variants>
+           
+	</question>
+
+	 <question name="9. Что означает прямой?" character="4" >
+	<variants>
+                <variant id="1" text="деревянный" />
+                <variant id="2" text="большой"/>
+		<variant id="1" text="неострый" />
+                <variant id="2" text="искренний"/>
+            </variants>
+           
+	</question>
+
+ 	<question name="10. Предатель относится к верному, как противный к:" character="1" >
+	<variants>
+                <variant id="1" text="приятному" />
+                <variant id="2" text="устойчивому"/>
+		<variant id="1" text="приветствующему" />
+                <variant id="2" text="квалифицированному"/>
+            </variants>
+           
+	</question>
+	
+	<question name="11. Какое слово здесь лишнее?" character="4" >
+	<variants>
+                <variant id="1" text="демократ" />
+                <variant id="2" text="коммунист"/>
+		<variant id="1" text="либерал" />
+                <variant id="2" text="диктатор"/>
+            </variants>
+           
+	</question>
+
+	<question name="12. Кот относится к лапе, как лошадь к:" character="4" >
+	<variants>
+                <variant id="1" text="меху" />
+                <variant id="2" text="волосам"/>
+		<variant id="1" text="обуви" />
+                <variant id="2" text="копыту"/>
+            </variants>
+           
+	</question>
+
+	 <question name="13. Противоположность утомлению:" character="4" >
+	<variants>
+                <variant id="1" text="радость" />
+                <variant id="2" text="чистота"/>
+		<variant id="1" text="движение" />
+                <variant id="2" text="бодрость"/>
+            </variants>
+           
+	</question>
+
+	 <question name="14. Что означает слово мот?" character="2" >
+	<variants>
+                <variant id="1" text="сын" />
+                <variant id="2" text="транжира"/>
+		<variant id="1" text="уменьшение" />
+                <variant id="2" text="соблазн"/>
+            </variants>
+           
+	</question>
+
+	 <question name="15. Какое слово будет вторым в алфавитном порядке? " character="1" >
+	<variants>
+                <variant id="1" text="мавр" />
+                <variant id="2" text="магма"/>
+		<variant id="1" text="мавзолей" />
+                <variant id="2" text="манна"/>
+            </variants>
+           
+	</question>
+
+	 <question name="16. Спускаться относится к подниматься, как слезать к:" character="2" >
+	<variants>
+                <variant id="1" text="подниматься" />
+                <variant id="2" text="карабкаться"/>
+		<variant id="1" text="восходить" />
+                <variant id="2" text="идти"/>
+            </variants>
+           
+	</question>
+
+	 <question name="17. Какое слово лишнее?" character="4" >
+	<variants>
+                <variant id="1" text="обилие" />
+                <variant id="2" text="избыток"/>
+		<variant id="1" text="пышность" />
+                <variant id="2" text="титул"/>
+            </variants>
+           
+	</question>
+
+	<question name="18. Снег относится к кристаллам, как туман к: " character="1" >
+	<variants>
+                <variant id="1" text="каплям" />
+                <variant id="2" text="воде"/>
+		<variant id="1" text="облаку" />
+                <variant id="2" text="дождю"/>
+            </variants>
+           
+	</question>
+
+ 	<question name="19. Какое слово здесь лишнее?" character="4" >
+
+	<variants>
+                <variant id="1" text="раздраженный" />
+                <variant id="2" text="кусачий"/>
+		<variant id="1" text="сердитый" />
+                <variant id="2" text="ясный"/>
+            </variants>           
+	</question>
+	
+
+	<question name="20. Какое слово ближе по смыслу к юмору? " character="3" >
+	<variants>
+                <variant id="1" text="смех" />
+                <variant id="2" text="сатира"/>
+		<variant id="1" text="шутка" />
+                <variant id="2" text="просьба"/>
+            </variants>
+           
+	</question>
+
+	 <question name="21. Слово, противоположное скудости?" character="2" >
+	<variants>
+                <variant id="1" text="богатство" />
+                <variant id="2" text="изобилие"/>
+		<variant id="1" text="бедность" />
+                <variant id="2" text="сложение"/>
+            </variants>
+           
+	</question>
+
+	 <question name="22. Спичка относится к горению, как капсюль к: " character="2" >
+	<variants>
+                <variant id="1" text="снаряду" />
+                <variant id="2" text="реакции"/>
+		<variant id="1" text="ружью" />
+                <variant id="2" text="войне"/>
+            </variants>
+           
+	</question>
+
+	 <question name="23. Забывчивость противоположна:" character="3" >
+	<variants>
+                <variant id="1" text="гневу" />
+                <variant id="2" text="подчинению"/>
+		<variant id="1" text="брани" />
+                <variant id="2" text="задержке"/>
+            </variants>
+           
+	</question>
+
+	 <question name="24. Забывчивость противоположна:" character="3" >
+	<variants>
+                <variant id="1" text="бесконтрольности" />
+                <variant id="2" text="безденежности"/>
+		<variant id="1" text="внимательности" />
+                <variant id="2" text="бедности"/>
+            </variants>
+           
+	</question>
+
+	 <question name="25. Какое слово здесь лишнее? " character="3" >
+	<variants>
+                <variant id="1" text="позор" />
+                <variant id="2" text="оскорбление"/>
+		<variant id="1" text="почет" />
+                <variant id="2" text="укоризна"/>
+            </variants>
+           
+	</question>
+
+	 <question name="26. Скала относится к геологии, как семя к:" character="2" >
+	<variants>
+                <variant id="1" text="садоводству" />
+                <variant id="2" text="биологии"/>
+		<variant id="1" text="атому" />
+                <variant id="2" text="науке"/>
+            </variants>
+           
+	</question>
+
+	 <question name="27. Какое слово здесь лишнее? " character="4" >
+	<variants>
+                <variant id="1" text="близкий " />
+                <variant id="2" text="тесный"/>
+		<variant id="1" text="совпадающий" />
+                <variant id="2" text="независимый"/>
+            </variants>
+           
+	</question>
+
+ 	<question name="28. Строфа относится к поэме, как движение к:" character="1" >
+	<variants>
+                <variant id="1" text="танцу" />
+                <variant id="2" text="гонке"/>
+		<variant id="1" text="музыке" />
+                <variant id="2" text="симфонии"/>
+            </variants>
+           
+	</question>
+	
+	<question name="29. С каким словом сочетается слово взрывной?" character="1" >
+	<variants>
+                <variant id="1" text="звук" />
+                <variant id="2" text="возможность"/>
+		<variant id="1" text="неизбежность" />
+                <variant id="2" text="динамит"/>
+            </variants>
+           
+	</question>
+
+	 <question name="30. Жертва относится к преследователю, как искать к: " character="2" >
+	<variants>
+                <variant id="1" text="пряткам" />
+                <variant id="2" text="вопросу"/>
+		<variant id="1" text="уловке" />
+                <variant id="2" text="побегу"/>
+            </variants>
+           
+	</question>
+
+	 <question name="31. Птица относится к стае как личность к: " character="1" >
+	<variants>
+                <variant id="1" text="толпе" />
+                <variant id="2" text="истории"/>
+		<variant id="1" text="предмету" />
+                <variant id="2" text="материи"/>
+            </variants>
+           
+	</question>
+
+	 <question name="32. Слово шаблонный противоположно: " character="4" >
+	<variants>
+                <variant id="1" text="обыкновенному" />
+                <variant id="2" text="частому"/>
+		<variant id="1" text="стандартному" />
+                <variant id="2" text="необычному"/>
+            </variants>
+           
+	</question>
+
+	 <question name="33. Даритель относится к филантропу, как получатель: " character="3" >
+	<variants>
+                <variant id="1" text="пациенту" />
+                <variant id="2" text="коллекционеру"/>
+		<variant id="1" text="наследнику" />
+                <variant id="2" text="подателю"/>
+            </variants>
+           
+	</question>
+
+	 <question name="34. Какое слово здесь лишнее?" character="1" >
+	<variants>
+                <variant id="1" text="обессиленный" />
+                <variant id="2" text="мощный"/>
+		<variant id="1" text="энергичный" />
+                <variant id="2" text="живой"/>
+            </variants>
+           
+	</question>
+
+	 <question name="35. Какое слово здесь лишнее? " character="3" >
+	<variants>
+                <variant id="1" text="мгновенный" />
+                <variant id="2" text="мимолетный"/>
+		<variant id="1" text="ситуация" />
+                <variant id="2" text="эфемерный"/>
+            </variants>
+           
+	</question>
+
+	 <question name="36. Краснощекий относится к румяному, как запах к:" character="4" >
+	<variants>
+                <variant id="1" text="свежести" />
+                <variant id="2" text="стерильности"/>
+		<variant id="1" text="бледности" />
+                <variant id="2" text="аромату"/>
+            </variants>
+           
+	</question>
+
+ 	<question name="37. Сушить противоположно: " character="1" >
+	<variants>
+                <variant id="1" text="вымачивать" />
+                <variant id="2" text="растворять"/>
+		<variant id="1" text="мыть" />
+                <variant id="2" text="истощать"/>
+            </variants>
+           
+	</question>
+
+	<question name="38. Какое слово здесь лишнее?  " character="2" >
+	<variants>
+                <variant id="1" text="энергичный" />
+                <variant id="2" text="подавленный"/>
+		<variant id="1" text="оживленный" />
+                <variant id="2" text="подвижный"/>
+            </variants>
+           
+	</question>
+
+	 <question name="39. Какое слово здесь лишнее?" character="4" >
+	<variants>
+                <variant id="1" text="худший" />
+                <variant id="2" text="дешевый"/>
+		<variant id="1" text="дрянной" />
+                <variant id="2" text="редкий"/>
+            </variants>
+           
+	</question>
+
+	 <question name="40. Импульсивный относится к предусмотрительному, как
+порывистый к:" character="1" >
+	<variants>
+                <variant id="1" text="расчетливому" />
+                <variant id="2" text="помогающему"/>
+		<variant id="1" text="тормозящему" />
+                <variant id="2" text="поспешному"/>
+            </variants>
+           
+	</question>
+
+	 <question name="41. Задерживать относится к подталкивать как вводить в заблуждение к:" character="3" >
+	<variants>
+                <variant id="1" text="галлюцинировать" />
+                <variant id="2" text="путать"/>
+		<variant id="1" text="просвещать" />
+                <variant id="2" text="расхолаживать"/>
+            </variants>
+           
+	</question>
+
+	 <question name="42. Какое слово здесь лишнее?" character="3" >
+	<variants>
+                <variant id="1" text="вид" />
+                <variant id="2" text="род"/>
+		<variant id="1" text="снабжение" />
+                <variant id="2" text="ассортимент"/>
+            </variants>
+           
+	</question>
+     
+    </questions>
+</root>

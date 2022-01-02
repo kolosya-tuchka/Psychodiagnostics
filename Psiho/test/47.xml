@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="Умеет нравится">
+		</question>
+		<question id="2" name="Производит впечатление на окружающих">
+		</question>
+		<question id="3" name="Умеет распоряжаться, приказывать">
+		</question>
+		<question id="4" name="Умеет настоять на своем">
+		</question>
+		<question id="5" name="Обладает чувством собственного достоинства">
+		</question>
+		<question id="6" name="Независимый">
+		</question>
+		<question id="7" name="Способен сам позаботится о себе">
+		</question>
+		<question id="8" name="Может проявить безразличие ">
+		</question>
+		<question id="9" name="Способен быть суровым">
+		</question>
+		<question id="10" name="Строгий, но справедливый">
+		</question>
+		<question id="11" name="Может быть искренним">
+		</question>
+		<question id="12" name="Критичен к другим">
+		</question>
+		<question id="13" name="Любит поплакаться">
+		</question>
+		<question id="14" name="Часто печален">
+		</question>
+		<question id="15" name="Способен проявить недоверие">
+		</question>
+		<question id="16" name="Часто разочаровывается">
+		</question>
+		<question id="17" name="Способен быть критичен к себе">
+		</question>
+		<question id="18" name="Способен признавать свою непровоту">
+		</question>
+		<question id="19" name="Охотно подчиняется">
+		</question>
+		<question id="20" name="Покладистый">
+		</question>
+		 <question id="21" name="Благодарный">
+		</question>
+		<question id="22" name="Восхищающий и склонный к подражанию">
+		</question>
+		<question id="23" name="Уважительный">
+		</question>
+		<question id="24" name="Ищущий одобрения">
+		</question>
+		<question id="25" name="Способный к сотруднечеству, взаимопомощи">
+		</question>
+		<question id="26" name="Стремится ужится с другими">
+		</question>
+		<question id="27" name="Доброжелательный">
+		</question>
+		<question id="28" name="Внимательный и ласковый">
+		</question>
+		<question id="29" name="Деликатный">
+		</question>
+		<question id="30" name="Ободряющий">
+		</question>
+		<question id="31" name="Отзывчивый к призывам о помощи">
+		</question>
+		<question id="32" name="Бескорыстный">
+		</question>
+		<question id="33" name="Способен вызывать восхищение">
+		</question>
+		<question id="34" name="Пользуется у других уважением">
+		</question>
+		<question id="35" name="Обладает талантом руководителя">
+		</question>
+		<question id="36" name="Любит ответственность">
+		</question>
+		<question id="37" name="Уверен в себе">
+		</question>
+		<question id="38" name="Самоуверен и напорист">
+		</question>
+		<question id="39" name="Деловой, практичный">
+		</question>
+		<question id="40" name="Соперничающий">
+		</question>
+		 <question id="41" name="Стойкий и жестки, где надо">
+		</question>
+		<question id="42" name="Неумолимый, но беспристрасный">
+		</question>
+		<question id="43" name="Раздражительный">
+		</question>
+		<question id="44" name="Открытый и прямоленейный">
+		</question>
+		<question id="45" name="Не терпит, чтобы им командовали ">
+		</question>
+		<question id="46" name="Скептичен">
+		</question>
+		<question id="47" name="На него трудно произвести впечатление">
+		</question>
+		<question id="48" name="Обидчивый, щепетильный">
+		</question>
+		<question id="49" name="Легко смущается">
+		</question>
+		<question id="50" name="Неуверенный в себе">
+		</question>
+		<question id="51" name="Уступчивый">
+		</question>
+		<question id="52" name="Скромный">
+		</question>
+		<question id="53" name="Часто прибегает к помощи других">
+		</question>
+		<question id="54" name="Очень почитает авторитеты">
+		</question>
+		<question id="55" name="Охотно принимает советы">
+		</question>
+		<question id="56" name="Доверчив и стремится радовать других">
+		</question>
+		<question id="57" name="Всегда любезен в обхождении">
+		</question>
+		<question id="58" name="Дорожит мнением окружающих">
+		</question>
+		<question id="59" name="Общительный и уживчивый">
+		</question>
+		<question id="60" name="Добросердечный">
+		</question>
+		 <question id="61" name="Добрый, вселяющий уверенность">
+		</question>
+		<question id="62" name="Нежный и мягкосердечный">
+		</question>
+		<question id="63" name="Любит заботиться о других ">
+		</question>
+		<question id="64" name="Щедрый">
+		</question>
+		<question id="65" name="Любит давать советы">
+		</question>
+		<question id="66" name="Производит впечатление значительности">
+		</question>
+		<question id="67" name="Начальчтвенно повелительный">
+		</question>
+		<question id="68" name="Властный">
+		</question>
+		<question id="69" name="Хвастливый">
+		</question>
+		<question id="70" name="Надменный и самодовольный">
+		</question>
+		<question id="71" name="Думает только о себе">
+		</question>
+		<question id="72" name="Хитрый">
+		</question>
+		<question id="73" name="Нетерпим к ошибкам других">
+		</question>
+		<question id="74" name="Расчетливый">
+		</question>
+		<question id="75" name="Откровенный">
+		</question>
+		<question id="76" name="Часто недружелюбен">
+		</question>
+		<question id="77" name="Озлоблен">
+		</question>
+		<question id="78" name="Жалобщик">
+		</question>
+		<question id="79" name="Ревнивый">
+		</question>
+		<question id="80" name="Долго помнит обиды">
+		</question>
+		 <question id="81" name="Самобичующий">
+		</question>
+		<question id="82" name="Застенчивый">
+		</question>
+		<question id="83" name="Безынициативный">
+		</question>
+		<question id="84" name="Кроткий">
+		</question>
+		<question id="85" name="Зависимый, несамстоятельный">
+		</question>
+		<question id="86" name="Любит подчиняться">
+		</question>
+		<question id="87" name="Предостовляет другим право примить решения">
+		</question>
+		<question id="88" name="Легко попадает впросак">
+		</question>
+		<question id="89" name="Легко поддается влиянию других">
+		</question>
+		<question id="90" name="Готов довериться другому ">
+		</question>
+		<question id="91" name="Благорасположен ко всем без выбора">
+		</question>
+		<question id="92" name=" Всем симпатизирует">
+		</question>
+		<question id="93" name="Прощает все">
+		</question>
+		<question id="94" name="Переполнен чрезмерным сочувствием">
+		</question>
+		<question id="95" name="Великодушен и терпим к недостаткам">
+		</question>
+		<question id="96" name="Стремится помочь каждому">
+		</question>
+		<question id="97" name="Стремится к успеху">
+		</question>
+		<question id="98" name="Ожидает восхищение от каждого">
+		</question>
+		<question id="99" name="Распоряжается другими">
+		</question>
+		<question id="100" name="Деспотичный">
+		</question>
+		 <question id="101" name="Относится к окружающим с чувством превосходства">
+		</question>
+		<question id="102" name="Тщеславный">
+		</question>
+		<question id="103" name="Эгоистичный">
+		</question>
+		<question id="104" name="Холодный, черствый">
+		</question>
+		<question id="105" name="Язвительный, насмешливый">
+		</question>
+		<question id="106" name="Злой,  жестокий">
+		</question>
+		<question id="107" name="Часто гневлив">
+		</question>
+		<question id="108" name="Бесчувственный, равнодушный">
+		</question>
+		 <question id="109" name="Злопамятный">
+		</question>
+		<question id="110" name="Проникнут духом противоречия">
+		</question>
+		<question id="111" name="Упрямый">
+		</question>
+		<question id="112" name="Недоверчивый, подозрительный">
+		</question>
+		<question id="113" name="Робкий">
+		</question>
+		<question id="114" name="Стыдливый">
+		</question>
+		<question id="115" name="Услужливый">
+		</question>
+		<question id="116" name="Мягкотелый">
+		</question>
+		<question id="117" name="Почти никому не возражает">
+		</question>
+		<question id="118" name="Навязчивый">
+		</question>
+		<question id="119" name="Любит, чтобы его опекали">
+		</question>
+		<question id="120" name="Чрезмерно доверчив">
+		</question>
+		<question id="121" name="Стремится снискать расположение каждого">
+		</question>
+		<question id="122" name="Со всеми соглашается">
+		</question>
+		<question id="123" name="Всегда со всеми дружелюбен">
+		</question>
+		<question id="124" name="Всех любит">
+		</question>
+		<question id="125" name="Слишком снисходителен к окружающим">
+		</question>
+		<question id="126" name="Старается утешить каждого">
+		</question>
+		<question id="127" name="Заботится яо других в ущерб себе">
+		</question>
+		<question id="128" name="Портит людей чрезмерной добротой">
+		</question>
+
+		
+	</questions>
+</root>

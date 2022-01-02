@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Мне обидно, когда новый человек чувствует себя в группе одиноко" character="1">
+            <variants>
+                <variant id="1" text="Да" />
+                <variant id="2" text="Нет"/>
+            </variants>
+	</question>
+        
+       <question id="2" name="2. Люди обычно преувеличивают способность животных переживать, их чувствительность" character="2" >
+           
+	</question>
+
+	<question id="3" name="3. Меня раздражает, когда люди открыто проявляют свои эмоции" character="2">
+           
+	</question>
+	
+	<question id="4" name="4. Терпеть не могу, когда неудачники себя жалеют" character="2">
+           
+	</question>
+
+	<question id="5" name="5. Когда люди вокруг меня нервничают, я тоже начинаю нервничать" character="1">
+           
+	</question>
+
+	<question id="6" name="6. Я считаю, что плакать от счастья глупо" character="2">
+           
+	</question>
+
+	<question id="7" name="7. Я эмоционально включаюсь в проблемы своих друзей" character="1">
+           
+	</question>
+	
+	<question id="8" name="8. Иногда слова песен о любви глубоко трогают меня" character="1">
+           
+	</question>
+
+	<question id="9" name="9. Мне трудно сохранить самообладание, когда я приношу людям плохие новости" character="1">
+           
+	</question>
+
+	<question id="10" name="10. Мое настроение сильно зависит от окружающих меня людей" character="1" >
+           
+	</question>
+
+	<question id="11" name="11. Большинство иностранцев кажутся мне холодными и неэмоциональными" character="2">
+           
+	</question>
+	
+	<question id="12" name="12. Работу, которая давала бы мне возможность помогать людям решать их личные проблемы, я предпочел бы работе, связанной с обучением людей" character="1">
+           
+	</question>
+
+	<question id="13" name="13. Я не склонен расстраиваться только потому, что мой друг чем-то расстроен" character="2">
+           
+	</question>
+
+	<question id="14" name="14. Я люблю наблюдать, как люди разворачивают подарки" character="1">
+           
+	</question>
+
+	<question id="15" name="15. Одинокие люди обычно недружелюбны" character="2">
+           
+	</question>
+	
+	<question id="16" name="16. Меня очень огорчает, когда люди плачут" character="1">
+           
+	</question>
+
+	<question id="17" name="17. Слушая некоторые песни, я чувствую себя счастливым" character="1">
+           
+	</question>
+
+	<question id="18" name="18. Когда я читаю книгу, я сам переживаю чувства героев" character="1">
+           
+	</question>
+	
+	<question id="19" name="19. Я выхожу из себя, когда вижу, что с кем-то жестоко обращаются" character="1">
+           
+	</question>
+
+	<question id="20" name="20. Я могу оставаться спокойным, даже если вокруг меня все обеспокоены" character="2">
+           
+	</question>
+
+	<question id="21" name="21. Когда знакомый начинает говорить о своих проблемах, я стараюсь перевести разговор на другую тему" character="2">
+           
+	</question>
+	
+	<question id="22" name="22. Я заражаюсь чужим смехом" character="2">
+           
+	</question>
+
+	<question id="23" name="23. Иногда в кино я бываю удивлен тем, как много людей вокруг плачут или всхлипывают" character="2">
+           
+	</question>
+
+	<question id="24" name="24. Я могу принимать решения, не беря в расчет чувства людей" character="2">
+           
+	</question>
+
+	<question id="25" name="25. Я не могу прекрасно чувствовать себя, когда окружающие меня люди чем-то подавлены" character="1">
+           
+	</question>
+	
+	<question id="26" name="26. Я не могу понять, почему некоторые вещи так расстраивают людей" character="1">
+           
+	</question>
+
+	<question id="27" name="27. Мне очень больно видеть страдающих животных" character="1">
+           
+	</question>
+	
+	<question id="28" name="28. Глупо переживать из-за событий, происходящих в фильме или в книге" character="2">
+           
+	</question>
+
+	<question id="29" name="29. Мне жаль беспомощных людей" character="1">
+           
+	</question>
+
+	<question id="30" name="30. Когда кто-то рыдает, это вызывает у меня скорее раздражение, чем сочувствие" character="2">
+           
+	</question>
+
+	<question id="31" name="31. Когда я смотрю фильм, я ярко переживаю все, что вижу на экране" character="1">
+           
+	</question>
+	
+	<question id="32" name="32. Я часто обнаруживаю, что могу сохранять спокойствие, даже когда вокруг меня все очень возбуждены" character="2">
+           
+	</question>
+
+	<question id="33" name="33. Маленькие дети иногда плачут без всякой причины" character="2">
+           
+	</question>
+	
+    </questions>
+</root>

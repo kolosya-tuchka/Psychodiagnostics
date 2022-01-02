@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Мистер Браун живет к западу от мистера Смита. Мистер Бертон живет к западу от мистера Брауна. Кто из них живет дальше к западу?" character="3">
+            <variants>
+                <variant id="1" text="мистер Браун" />
+                <variant id="2" text="мистер Смит"/>
+		<variant id="1" text="мистер Бертон" />
+               
+            </variants>
+	</question>
+        
+       <question name="2. Сьюзен и Стелла любят пиццу, а Сьюки и Салли любят макароны. Сьюзен и Салли любят лазанью. Кто любит пиццу и лазанью? " character="2" >
+        <variants>
+                <variant id="1" text="Сьюзен" />
+                <variant id="2" text="Стелла"/>
+		<variant id="1" text="Сьюки" />
+                <variant id="2" text="Салли"/>
+            </variants>   
+	</question>
+
+	 <question name="3. Кто любит лазанью и макароны? " character="4" >
+	<variants>
+                <variant id="1" text="Сьюзен" />
+                <variant id="2" text="Стелла"/>
+		<variant id="1" text="Сьюки" />
+                <variant id="2" text="Салли"/>
+            </variants>
+           
+	</question>
+
+	 <question name="4. У Джоан и Джека денег больше, чем у Фреда, а у Крис меньше, чем у Фреда. У Питера больше денег, чем у Фреда. У кого денег меньше всего?" character="4" >
+	<variants>
+                <variant id="1" text="у Джоан" />
+                <variant id="2" text="у Джека"/>
+		<variant id="1" text="у Фреда" />
+                <variant id="2" text="у Крис"/>
+		<variant id="2" text="у Питера"/>
+            </variants>
+
+           
+	</question>
+
+
+	<question name="5. Тоби, Роб и Фрэнк берут на работу упакованный завтрак, а Сэм, Джо и Тони покупают пищу в столовой. Фрэнк, Сэм и Джо ездят на автобусе. Джо, Фрэнк и Тони женаты. Кто женат и носит с собой упакованный завтрак?" character="2" >
+	<variants>
+                <variant id="1" text="Тоби" />
+                <variant id="2" text="Роб"/>
+		<variant id="1" text="Фрэнк" />
+                <variant id="2" text="Сэм"/>
+		<variant id="1" text="Джо" />
+                <variant id="2" text="Тони"/>
+            </variants>
+           
+	</question>
+
+
+       <question name="6. Кто не ездит на автобусе и покупает обед?" character="6" >
+	<variants>
+                <variant id="1" text="Тоби" />
+                <variant id="2" text="Роб"/>
+		<variant id="1" text="Фрэнк" />
+                <variant id="2" text="Сэм"/>
+		<variant id="1" text="Джо" />
+                <variant id="2" text="Тони"/>
+            </variants>
+	</question>
+
+	 <question name="7. В забеге на 100 метров последней пришла Джанет, перед ней по порядку Маркус, Эрик и Анжела. После тренировок Джанет обошла Эрика, хотя Маркус не сумел опередить его. Кто оказался самым быстрым после тренировок? " character="4" >
+	<variants>
+                <variant id="1" text="Джанет" />
+                <variant id="2" text="Маркус"/>
+		<variant id="1" text="Эрик" />
+                <variant id="2" text="Анжела"/>
+            </variants>
+           
+	</question>
+
+	 <question name="8. Кто пришел к финишу последним после тренировок?" character="2" >
+	<variants>
+                <variant id="1" text="Джанет" />
+                <variant id="2" text="Маркус"/>
+		<variant id="1" text="Эрик" />
+                <variant id="2" text="Анжела"/>
+            </variants>
+           
+	</question>
+
+	 <question name="9. У Фреда, Джона, Гарта и Джо одинаковая работа, хотя только Фред и Джон работают полное время, а остальные лишь часть рабочего дня. Джон и Джо ездят на работу поездом, а остальные живут рядом и ходят пешком. Машины есть только у Фреда и Джо. Кто имеет автомобиль, но ездит на работу поездом?" character="2" >
+	<variants>
+                <variant id="1" text="Фред" />
+                <variant id="2" text="Джо"/>
+		<variant id="1" text="Джон" />
+                <variant id="2" text="Гарт"/>
+            </variants>
+           
+	</question>
+
+ 	<question name="10. Кто не имеет автомобиля и ездит на постоянную работу поездом? " character="4" >
+	<variants>
+                <variant id="1" text="Фред" />
+                <variant id="2" text="Джо"/>
+		<variant id="1" text="Гарт" />
+                <variant id="2" text="Джон"/>
+            </variants>
+           
+	</question>
+	
+	<question name="11. Экземпляр « Зимней сказки» стоит в книжном шкафу под полкой, на которой находятся «Лошадиные челюсти». «Последние дни Третьего рейха» стоят полкой выше «Книги Практикующих Котов». На самой верхней полке находится «Ветер в ивах». «Лошадиные челюсти» стоят на одной полке с «Джастиной», а «Книга Практикующих Котов» находится полкой ниже «Зимней сказки». Какая книга стоит на нижней полке?" character="4" >
+	<variants>
+                <variant id="1" text="Зимняя сказка" />
+                <variant id="2" text="Лошадиные челюсти"/>
+		<variant id="1" text="Последние дни Третьего рейха" />
+                <variant id="2" text="Книга Практикующих Котов"/>
+		<variant id="1" text="Джастина" />
+                <variant id="2" text="Ветер в ивах"/>
+            </variants>
+           
+	</question>
+
+	<question name="12. Какие две книги находятся на одной и той же полке?" character="1" >
+	<variants>
+                <variant id="1" text="«Зимняя сказка» и «Последние дни Третьего рейха»" />
+                <variant id="2" text="«Лошадиные челюсти» и «Книга Практикующих Котов»"/>
+		<variant id="1" text="«Книга Практикующих Котов» и «Ветер в ивах»" />
+                <variant id="2" text="ни одна из них"/>
+            </variants>
+           
+	</question>
+
+	 <question name="13. У Кейси, Стюарта, Ритчи, Билли и Колина есть свои парты в школе. У Кейси и Колина на партах стоят компьютеры, у оставшихся троих – только калькуляторы. У Ритчи и Кейси есть и инструкция, и памятка. У остальных есть только памятки. Парты Кейси и Билли деревянные. У остальных парты металлические. Чей компьютер стоит на деревянной парте? " character="1" >
+	<variants>
+                <variant id="1" text="Кейси" />
+                <variant id="2" text="Стюарта"/>
+		<variant id="1" text="Ритчи" />
+                <variant id="2" text="Билли"/>
+		<variant id="2" text="Колина"/>
+            </variants>
+           
+	</question>
+
+	 <question name="14. Сколько школьников имеют памятки, сидят за неметаллическими партами и не имеют компьютера? " character="5" >
+	<variants>
+                <variant id="1" text="5" />
+                <variant id="2" text="4"/>
+		<variant id="1" text="3" />
+                <variant id="2" text="2"/>
+		<variant id="1" text="1" />
+                <variant id="2" text="ни один"/>
+            </variants>
+           
+	</question>
+
+	 <question name="15. Кто не имеет компьютера на металлической парте, но имеет и инструкцию, и памятку?" character="3" >
+	<variants>
+                <variant id="1" text="Кейси" />
+                <variant id="2" text="Стюарт"/>
+		<variant id="1" text="Ритчи" />
+                <variant id="2" text="Билли"/>
+		<variant id="2" text="Колин"/>
+            </variants>
+           
+	</question>
+
+	 <question name="16. У миссис Говард есть трудности с питанием ее четверых детей, поскольку каждый из них ест только определенные продукты. Келли и Сэм едят кашу и бобы. Шэрон и Робина – рыбу и помидоры. Только Келли и Шэрон любят картошку и кашу. Чего не ест Шэрон?" character="2" >
+	<variants>
+                <variant id="1" text="кашу" />
+                <variant id="2" text="бобы"/>
+		<variant id="1" text="рыбу" />
+                <variant id="2" text="помидоры"/>
+		<variant id="2" text="картофель"/>
+            </variants>
+           
+	</question>
+
+	 <question name="17. Кто ест картошку, кашу и бобы? " character="2" >
+	<variants>
+                <variant id="1" text="Шэрон" />
+                <variant id="2" text="Келли"/>
+		<variant id="1" text="Робина" />
+                <variant id="2" text="Сэм"/>
+            </variants>
+           
+	</question>
+
+	<question name="18. Кто ест рыбу и помидоры, но не ест картошку? " character="3" >
+	<variants>
+                <variant id="1" text="Шэрон" />
+                <variant id="2" text="Келли"/>
+		<variant id="1" text="Робина" />
+                <variant id="2" text="Сэм"/>
+            </variants>
+           
+           
+	</question>
+
+ 	<question name="19. Какую пищу еcт большинство детей?" character="1" >
+	<variants>
+                <variant id="1" text="кашу" />
+                <variant id="2" text="бобы"/>
+		<variant id="1" text="рыбу" />
+                <variant id="2" text="помидоры"/>
+		<variant id="2" text="картофель"/>
+            </variants>           
+	</question>
+	
+
+	<question name="20. Пять автомобилей принадлежат мистеру Бэгшоу, мисс Дженкинс, миссис Чэнс, мистеру Флемингу и мистеру Марксу. У мистера Маркса и мистера Бэгшоу автомобили синие. Остальные автомобили красные. На дверцах машин мистера Бэгшоу и миссис Чэнс нанесена белая полоска, гармонирующая с обивкой сидений. У машины мисс Дженкинс полоска синяя. У машин мистера Флеминга и мистера Маркса полоски оранжевые. Обивка у всех автомобилей белая, кроме машин мисс Дженкинс и мистера Флеминга, у которых она синяя. Чей автомобиль имеет синюю обивку и оранжевую полосу?" character="4" >
+	<variants>
+                <variant id="1" text="мистера Бэгшоу" />
+                <variant id="2" text="мисс Дженкинс"/>
+		<variant id="1" text="миссис Чэнс" />
+                <variant id="2" text="мистера Флеминга"/>
+		<variant id="2" text="мистера Маркса"/>
+            </variants>
+           
+	</question>
+
+	 <question name="21. Чей автомобиль имеет оранжевую полосу и белую обивку?" character="5" >
+	<variants>
+                <variant id="1" text="мистера Бэгшоу" />
+                <variant id="2" text="мисс Дженкинс"/>
+		<variant id="1" text="миссис Чэнс" />
+                <variant id="2" text="мистера Флеминга"/>
+		<variant id="2" text="мистера Маркса"/>
+            </variants>
+	</question>
+
+	 <question name="22. У кого красный автомобиль с синей полосой и синей обивкой?" character="2" >
+	<variants>
+                <variant id="1" text="у мистера Бэгшоу" />
+                <variant id="2" text="у мисс Дженкинс"/>
+		<variant id="1" text="у миссис Чэнс" />
+                <variant id="2" text="у мистера Флеминга"/>
+		<variant id="2" text="у мистера Маркса"/>
+            </variants>
+           
+	</question>
+
+	 <question name="23. Боксеры Гарри Квейд, он же Молоток, Рэнди Джонс, он же Каменная челюсть, Саймон Барлоу, он же Пройдоха, и Мэнни Муркок по кличке «Беспощадный» проводят шесть боев за звание чемпиона. Муркок побеждает Квейда. Джонс побеждает Муркока. Квейд и Барлоу побеждают Джонса. Барлоу побеждает Квейда и Муркока. Сколько боев выиграл Джонс? " character="1" >
+	<variants>
+                <variant id="1" text="1" />
+                <variant id="2" text="2"/>
+		<variant id="1" text="3" />
+                <variant id="2" text="4"/>
+		<variant id="2" text="0"/>
+            </variants>
+           
+	</question>
+
+	 <question name="24. Сколько поединков выиграл Квейд?" character="2" >
+	<variants>
+                <variant id="1" text="1" />
+                <variant id="2" text="2"/>
+		<variant id="1" text="3" />
+                <variant id="2" text="4"/>
+		<variant id="2" text="0"/>
+            </variants>
+           
+	</question>
+
+	 <question name="25. Кто стал чемпионом?" character="3" >
+	<variants>
+                <variant id="1" text="Квейд" />
+                <variant id="2" text="Джонс"/>
+		<variant id="1" text="Барлоу" />
+                <variant id="2" text="Муркок"/>
+            </variants>
+           
+	</question>
+
+	 <question name="26. Салли, Черил, Лаура, Том и Сэнди угощаются конфетами из вазочки. Четверо из них берут по одной сливочной помадке. Черил и Том не взяли по шоколадке, как сделали все остальные. На самом деле Черил взяла только кусок фруктового сахара. Кроме Черил только Салли и Сэнди не взяли по ириске. Кто взял только ириску и помадку?" character="4" >
+	<variants>
+                <variant id="1" text="Салли" />
+                <variant id="2" text="Черил"/>
+		<variant id="1" text="Лаура" />
+                <variant id="2" text="Том"/>
+		<variant id="2" text="Сэнди"/>
+            </variants>
+           
+	</question>
+
+	 <question name="27. Кто взял три конфеты?" character="3" >
+	    <variants>
+                <variant id="1" text="Салли" />
+                <variant id="2" text="Черил"/>
+		<variant id="1" text="Лаура" />
+                <variant id="2" text="Том"/>
+		<variant id="2" text="Сэнди"/>
+            </variants>
+	</question>
+
+ 	<question name="28. Назовите двоих, взявших одинаковое количество конфет и при том одних и тех же?" character="5" >
+	<variants>
+                <variant id="1" text="Салли и Лаура" />
+                <variant id="2" text="Сэнди и Лаура"/>
+		<variant id="1" text="Лаура и Том" />
+                <variant id="2" text="Том и Сэнди"/>
+		<variant id="2" text="Сэнди и Салли"/>
+            </variants>
+           
+	</question>
+	
+	<question name="29. Сколько всего конфет взяли ребята?" character="4" >
+	<variants>
+                <variant id="1" text="7" />
+                <variant id="2" text="8"/>
+		<variant id="1" text="9" />
+                <variant id="2" text="10"/>
+		<variant id="1" text="11" />
+                <variant id="2" text="12"/>
+            </variants>
+           
+	</question>
+
+	 <question name="30. У каждого из трех мальчиков – Джона, Рика и Теда – есть в кармане перочинный нож, ключ и книга. Все ножи весят по-разному: один из них легкий, другой тяжелый, третий – очень тяжелый. Книга и ключ классифицируются по весу точно так же. Каждый мальчик имеет три предмета различного веса: один легкий, другой – тяжелый и третий – очень тяжелый. Ключ Теда не очень тяжелый. Книга Рика и перочинный нож Джона имеют одинаковый вес. Книга Теда, перочинный нож Рика и ключ Джона относятся к одной весовой категории. Перочинный нож Теда – очень тяжелый. Какой вес имеет ключ Теда?
+" character="1" >
+	<variants>
+                <variant id="1" text="легкий" />
+                <variant id="2" text="тяжелый"/>
+		<variant id="1" text="очень тяжелый" />
+            </variants>
+           
+	</question>
+
+	 <question name="31. Какой вес имеет книга Джона? " character="3" >
+	<variants>
+                <variant id="1" text="легкий" />
+                <variant id="2" text="тяжелый"/>
+		<variant id="1" text="очень тяжелый" />
+            </variants>
+           
+	</question>
+
+	 <question name="32. У кого из мальчиков тяжелый ключ?" character="1" >
+	<variants>
+                <variant id="1" text="у Джона" />
+                <variant id="2" text="у Рика"/>
+		<variant id="1" text="у Теда" />
+                
+            </variants>
+           
+	</question>
+
+	 <question name="33. У кого из мальчиков легкая книга?" character="2" >
+	<variants>
+                <variant id="1" text="у Джона" />
+                <variant id="2" text="у Рика"/>
+		<variant id="1" text="у Теда" />
+                
+            </variants>
+           
+	</question>
+	 
+    </questions>
+</root>

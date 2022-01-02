@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1.Работая я устаю">
+		<variants>
+                <variant id="1" text="a) да." />
+                <variant id="2" text="b) нет." />
+
+		</variants>
+		</question>
+		<question id="2" name="2.Я не могу сосредоточиться на чем-нибудь одном">
+		</question>
+		<question id="3" name="3.Я беспокоюсь по всякому поводу">
+		</question>
+		<question id="4" name="4.Когда я что-нибудь делаю, мои руки трясутся">
+		</question>
+		<question id="5" name="5.Я часто волнуюсь">
+		</question>
+		<question id="6" name="6.Я потею даже в холодную погоду">
+		</question>
+		<question id="7" name="7.Я все время ощущаю голод">
+		</question>
+		<question id="8" name="8.У меня часто болит желудок">
+		</question>
+		<question id="9" name="9.Периодами из-за беспокойства я теряю сон">
+		</question>
+		<question id="10" name="10. Меня легко вывести из себя">
+		</question>
+		<question id="11" name="11.Я чувствительнее,чем другие">
+		</question>
+		<question id="12" name="12.Я часто о чем-то беспокоюсь">
+		</question>
+		<question id="13" name="13.Как жаль, что я не так счастлив, как другие">
+		</question>
+		<question id="14" name="14.Я легко могу заплакать">
+		</question>
+		<question id="15" name="15.Когда мне нужно жлять, я нервничаю">
+		</question>
+		<question id="16" name="16.Периодами я чувствую себя таким счастливым, что не могу усидеть на месте">
+		</question>
+		<question id="17" name="17.Я сильно пасую перед трудностями">
+		</question>
+		<question id="18" name="18.Временами я чувствую свою бесполезность">
+		</question>
+		<question id="19" name="19.Я застенчивый человек ">
+		</question>
+		<question id="20" name="20. Я считаю, что во всем для меня есть трудности">
+		</question>
+		<question id="21" name="21.Я всегда напряжен">
+		</question>
+		<question id="22" name="22.Временами я чувствую себя разбитым">
+		</question>
+		<question id="23" name="23.Яуклоняюсь от трудностей">
+		</question>
+		
+
+		
+		
+		
+		
+		
+		
+	</questions>
+</root>

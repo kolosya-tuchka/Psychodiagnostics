@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="Понравится ли вам заниматься этим независимо от того, есть ли у вас, по вашему мнению, соответствующие способности и качества?">
+            <variants>
+                <variant id="1" text="А) Преподавать родной язык и литературу" character="1"/>
+                <variant id="2" text="Б) Составлять антураж и композиции при Киносъемке" character="2"/>
+                <variant id="3" text="В) Менять поврежденные детали или колеса Автомобиля" character="3"/>
+            </variants>
+	</question>
+        <question id="2">
+            <variants>
+                <variant id="1" text="А) Играть в оркестре" character="2"/>
+                <variant id="2" text="Б) Восстанавливать поврежденные участки кузова автомобиля" character="3"/>
+                <variant id="3" text="В) Заниматься археологическими раскопками" character="4"/>
+            </variants>
+	</question>
+        <question id="3">
+            <variants>
+                <variant id="1" text="А) Работать с буровым оборудованием" character="3"/>
+                <variant id="2" text="Б) Использовать компьютер для моделирования человеческого интеллекта" character="4"/>
+                <variant id="3" text="В) Добиваться осуществления страховых выплат" character="5"/>
+            </variants>
+	</question>
+        <question id="4">
+            <variants>
+                <variant id="1" text="А) Изучать болезни растений" character="4"/>
+                <variant id="2" text="Б) Консультировать по вопросам финансовой политики" character="5"/>
+                <variant id="3" text="В) Продавать музыкальные кассеты и диски" character="6"/>
+            </variants>
+	</question>
+        <question id="5">
+            <variants>
+                <variant id="1" text="А) Оценивать размеры ущерба, нанесенного стихийным бедствием" character="5"/>
+                <variant id="2" text="Б) Заниматься рекламой" character="6"/>
+                <variant id="3" text="В) Ухаживать за больными" character="7"/>
+            </variants>
+	</question>
+        <question id="6">
+            <variants>
+                <variant id="1" text="А) Заниматься иностранными переводами" character="1"/>
+                <variant id="2" text="Б) Проектировать здания" character="2"/>
+                <variant id="3" text="В) Заниматься изучением условий хранения пищи" character="4"/>
+            </variants>
+	</question>
+        <question id="7">
+            <variants>
+                <variant id="1" text="А) Писать музыку для радио и телевидения" character="2"/>
+                <variant id="2" text="Б) Выпускать продукцию по чертежам" character="3"/>
+                <variant id="3" text="В) Тестировать телефонные линии и аппараты" character="4"/>
+            </variants>
+	</question>
+        <question id="8">
+            <variants>
+                <variant id="1" text="А) Оказывать услуги по эксплуатации или ремонту электробытовой техники на дому" character="3"/>
+                <variant id="2" text="Б) Изучать научные журналы, чтобы быть в курсе последних достижений науки" character="4"/>
+                <variant id="3" text="В) Управлять бизнесом" character="6"/>
+            </variants>
+	</question>
+        <question id="9">
+            <variants>
+                <variant id="1" text="А) Испытывать новые материалы" character="4"/>
+                <variant id="2" text="Б) Регистрировать торговые операции" character="5"/>
+                <variant id="3" text="В) Заботиться об умственно отсталых людях" character="7"/>
+            </variants>
+	</question>
+        <question id="10">
+            <variants>
+                <variant id="1" text="А) Подбирать статьи для журналов и газет" character="1"/>
+                <variant id="2" text="Б) Ухаживать за растениями на приусадебных участках" character="3"/>
+                <variant id="3" text="В) Организовывать и оценивать поставки и услуги" character="5"/>
+            </variants>
+	</question>
+        <question id="11">
+            <variants>
+                <variant id="1" text="А) Анализировать предметы искусства" character="2"/>
+                <variant id="2" text="Б) Штамповать детали из металлических пластин" character="3"/>
+                <variant id="3" text="В) Избираться и быть представителем организации" character="5"/>
+            </variants>
+	</question>
+        <question id="12">
+            <variants>
+                <variant id="1" text="А) Разрабатывать производственный план или бизнес-план" character="6"/>
+                <variant id="2" text="Б) Участвовать в спортивных единоборствах,требующих физического напряжения" character="3"/>
+                <variant id="3" text="В) Помогать людям с психологическими проблемами" character="7"/>
+            </variants>
+	</question>
+        <question id="13">
+            <variants>
+                <variant id="1" text="А) Разрабатывать новые подходы, методы и программы для прогнозирования погоды" character="4"/>
+                <variant id="2" text="Б) Руководить службой подбора кадров" character="5"/>
+                <variant id="3" text="В) Заботиться о больных, поддерживать пациентов, испытывающих боль" character="7"/>
+            </variants>
+	</question>
+        <question id="14">
+            <variants>
+                <variant id="1" text="А) Писать книгу о каком-либо историческом персонаже" character="1"/>
+                <variant id="2" text="Б) Выражать свои мысли и идеи в рисунках, картинах, фотографиях" character="2"/>
+                <variant id="3" text="В) Руководить небольшим магазином" character="6"/>
+            </variants>
+	</question>
+        <question id="15">
+            <variants>
+                <variant id="1" text="А) Оформлять керамические изделия и орнаменты" character="2"/>
+                <variant id="2" text="Б) Производить окончательную отделку зданий или ремонт" character="3"/>
+                <variant id="3" text="В) Помогать людям снижать психологическое напряжение" character="7"/>
+            </variants>
+	</question>
+        <question id="16">
+            <variants>
+                <variant id="1" text="А) Проверять качество и пригодность материалов для промышленного производства" character="4"/>
+                <variant id="2" text="Б) Составлять картотеку документов" character="1"/>
+                <variant id="3" text="В) Быть главой комитета, комиссии" character="5"/>
+            </variants>
+	</question>
+        <question id="17">
+            <variants>
+                <variant id="1" text="А) Писать художественное произведение" character="1"/>
+                <variant id="2" text="Б) Исследовать и разрабатывать новые модели одежды" character="2"/>
+                <variant id="3" text="В) Изучать и анализировать исторические факты и события (с целью воссоздать реальный ход истории)" character="4"/>
+            </variants>
+	</question>
+        <question id="18">
+            <variants>
+                <variant id="1" text="А) Заниматься фотографированием" character="2"/>
+                <variant id="2" text="Б) Использовать статистические методы(напр., вычисления для проверки гипотез)" character="4"/>
+                <variant id="3" text="В) Оценивать стоимость восстановления поврежденного имущества" character="5"/>
+            </variants>
+	</question>
+        <question id="19">
+            <variants>
+                <variant id="1" text="А) Заниматься кожей в ручном промысле" character="3"/>
+                <variant id="2" text="Б) Консультировать по вопросам права или пенсионного обеспечения" character="5"/>
+                <variant id="3" text="В) Помогать детям, страдающим заиканием" character="7"/>
+            </variants>
+	</question>
+        <question id="20">
+            <variants>
+                <variant id="1" text="А) Преподавать драматическое искусство (в колледже)" character="2"/>
+                <variant id="2" text="Б) Работать на прядильном или ткацком станке" character="3"/>
+                <variant id="3" text="В) Изучать и разрабатывать новые системы телекоммуникации" character="4"/>
+            </variants>
+	</question>
+        <question id="21">
+            <variants>
+                <variant id="1" text="А) Проводить лабораторные работы по физике или химии" character="4"/>
+                <variant id="2" text="Б) Изучать древние рукописи" character="1"/>
+                <variant id="3" text="В) Продавать товары за комиссионное вознаграждение" character="6"/>
+            </variants>
+	</question>
+        <question id="22">
+            <variants>
+                <variant id="1" text="А) Оптимизировать операции и этапы выполнения задач для повышения эффективности работы" character="5"/>
+                <variant id="2" text="Б) Управлять агентством по недвижимости" character="6"/>
+                <variant id="3" text="В) Подыскивать приемных родителей для детей из приюта" character="7"/>
+            </variants>
+	</question>
+        <question id="23">
+            <variants>
+                <variant id="1" text="А) Писать сценарии для программ на радио и телевидении" character="2"/>
+                <variant id="2" text="Б) Заниматься кулинарным искусством" character="3"/>
+                <variant id="3" text="В) Вести собрания или их протоколы" character="5"/>
+            </variants>
+	</question>
+        <question id="24">
+            <variants>
+                <variant id="1" text="А) Создавать учебники по рисованию" character="2"/>
+                <variant id="2" text="Б) Разрабатывать учебники по гуманитарным или естественным наукам" character="1"/>
+                <variant id="3" text="В) Консультировать детей и их родителей по вопросам выбора профессии или дальнейшего образования" character="7"/>
+            </variants>
+	</question>
+        <question id="25">
+            <variants>
+                <variant id="1" text="А) Играть в спектакле" character="2"/>
+                <variant id="2" text="Б) Изготавливать предметы из глины или металла" character="3"/>
+                <variant id="3" text="В) Управлять компьютерным бизнесом" character="6"/>
+            </variants>
+	</question>
+        <question id="26">
+            <variants>
+                <variant id="1" text="А) Придумывать дизайн открыток и рекламных плакатов" character="2"/>
+                <variant id="2" text="Б) Консультировать по вопросам налогообложения" character="5"/>
+                <variant id="3" text="В) Продавать бытовую технику" character="6"/>
+            </variants>
+	</question>
+        <question id="27">
+            <variants>
+                <variant id="1" text="А) Преподавать иностранный язык и литературу" character="1"/>
+                <variant id="2" text="Б) Заниматься ремонтом заводского оборудования" character="3"/>
+                <variant id="3" text="В) Изучать психологические способности и свойства личности (напр., для предсказания поведения)" character="4"/>
+            </variants>
+	</question>
+        <question id="28">
+            <variants>
+                <variant id="1" text="А) Преподавать искусствоведение (и современное изобразительное искусство)" character="2"/>
+                <variant id="2" text="Б) Контролировать технологический процесс и работу оборудования" character="5"/>
+                <variant id="3" text="В) Помогать пожилым людям" character="7"/>
+            </variants>
+	</question>
+        <question id="29">
+            <variants>
+                <variant id="1" text="А) Разрабатывать рекламный буклет" character="1"/>
+                <variant id="2" text="Б) Консультировать людей, столкнувшихся с трудностями" character="7"/>
+                <variant id="3" text="В) Составлять смету на необходимые материалы" character="5"/>
+            </variants>
+	</question>
+        <question id="30">
+            <variants>
+                <variant id="1" text="А) Моделировать элементы обуви или одежды" character="2"/>
+                <variant id="2" text="Б) Быть управляющим страховой фирмы" character="6"/>
+                <variant id="3" text="В) Организовывать отдых детей на каникулах" character="7"/>
+            </variants>
+	</question>
+        <question id="31">
+            <variants>
+                <variant id="1" text="А) Искать и исправлять грамматические и орфографические ошибки в тексте" character="1"/>
+                <variant id="2" text="Б) Рассчитывать зарплату работников компании" character="5"/>
+                <variant id="3" text="В) Покупать вещи для последующей перепродажи" character="6"/>
+            </variants>
+	</question>
+        <question id="32">
+            <variants>
+                <variant id="1" text="А) Писать статьи для газет и журналов" character="1"/>
+                <variant id="2" text="Б) Готовить финансовую отчетность" character="6"/>
+                <variant id="3" text="В) Организовывать досуг работающих людей" character="7"/>
+            </variants>
+	</question>
+        <question id="33">
+            <variants>
+                <variant id="1" text="А) Собирать и анализировать новости" character="1"/>
+                <variant id="2" text="Б) Проводить генетические исследования(напр., изучать родственников и близнецов)" character="4"/>
+                <variant id="3" text="В) Делать закупки для коммерции" character="6"/>
+            </variants>
+	</question>
+        <question id="34">
+            <variants>
+                <variant id="1" text="А) Редактировать художественные произведения" character="1"/>
+                <variant id="2" text="Б) Готовить налоговые декларации" character="6"/>
+                <variant id="3" text="В) Консультировать	людей,  переживших эмоциональную травму" character="7"/>
+            </variants>
+	</question>
+        <question id="35">
+            <variants>
+                <variant id="1" text="А)  Составлять рекламные брошюры по разным видам бизнеса" character="1"/>
+                <variant id="2" text="Б) Рассчитывать вложения средств в бизнес" character="6"/>
+                <variant id="3" text="В)  Проверять получение материальной и иной помощи (нуждающимися в ней людьми)" character="7"/>
+            </variants>
+	</question>
+        <question id="36">
+            <variants>
+                <variant id="1" text="А) Набирать тексты или числовые таблицы на компьютере и редактировать их" character="1"/>
+                <variant id="2" text="Б) Преподавать психологические и социальные науки и консультировать по этим вопросам" character="7"/>
+                <variant id="3" text="В) Заниматься игровыми видами спорта, требующими физической отдачи" character="3"/>
+            </variants>
+	</question>
+    </questions>
+</root>

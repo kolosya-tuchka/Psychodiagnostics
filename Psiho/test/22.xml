@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Я действую как представитель коллектива " >
+            <variants>
+                <variant id="1" text="всегда" />
+                <variant id="2" text="часто"/>
+				<variant id="3" text="иногда" />
+                <variant id="4" text="редко"/>
+				<variant id="5" text="никогда" />
+            </variants>
+	</question>
+        
+       <question name="2. Я предоставляю членам коллектива полную свободу в выполнении работы " character="2" >
+           
+	</question>
+
+	 <question name="3. Я поощряю применение единообразных способов работы . " character="3" >
+           
+	</question>
+
+	 <question name="4. Я разрешаю подчинеными решать задачи на их усмотрение. " character="4" >
+           
+	</question>
+
+	 <question name="5. Я побуждаю членов коллектива к большему напряжению в работе. " character="5" >
+           
+	</question>
+
+	 <question name="6. Я предоставляю подчиненым возможность делать работу так, как они считают целесообразным. " character="1" >
+           
+	</question>
+
+	 <question name="7. Я стараюсь направить помыслы людей на выполнение учебно-производственных заданий. " character="2" >
+           
+	</question>
+
+	 <question name="8. Я поддерживаю высокий темп работы.  " character="3" >
+           
+	</question>
+
+	 <question name="9. Я разрешаю возникающие в коллективе конфликты.  " character="4" >
+           
+	</question>
+
+ 	<question name="10. Я неохотно предоставляю подчиненым свободу действия. " character="5" >
+           
+	</question>
+	
+	<question name="11. Я решаю сам, что и как должно быть сделано. " character="1" >
+           
+	</question>
+
+	 <question name="12. Я уделяю основное внимание показателям учебно-производственной деятельности. " character="2" >
+           
+	</question>
+
+	 <question name="13. Я распределяю поручения подчиненым исходя из производственной необходимости.  " character="3" >
+           
+	</question>
+
+	 <question name="14. Я способствую разным намериниям в своей организации. " character="4" >
+           
+	</question>
+
+	 <question name="15. Я тщательно планирую работу своего коллектива. " character="5" >
+           
+	</question>
+
+	 <question name="16. Я не объесняю подчиненным свои действия и решения . " character="1" >
+           
+	</question>
+
+	 <question name="17. Я стремлюсь убедить подчиненных, что мои действия и намерения - для их же пользы. " character="2" >
+           
+	</question>
+
+	 <question name="18. Я предоставляю подчиненным возможность устанавливать свой режим работы. " character="3" >
+           
+	</question>
+
+ 	     
+    </questions>
+</root>

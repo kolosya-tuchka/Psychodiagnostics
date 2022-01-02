@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="В каждой из предложенных в таблице пар специальностей надо выбрать одну, которую вы считаете более подходящей для вас">
+            <variants>
+                <variant id="1" text="Археолог" character="2"/>
+                <variant id="2" text="Реставратор произведений искусств" character="6" />
+            </variants>
+	</question>
+        <question id="2">
+            <variants>
+                <variant id="1" text="Специалист по связям с общественностью" character="3"/>
+                <variant id="2" text="Страховой агент" character="4" />
+            </variants>
+	</question>
+        <question id="3">
+            <variants>
+                <variant id="1" text="Нотариус" character="4"/>
+                <variant id="2" text="Телеведущий" character="6" />
+            </variants>
+	</question>
+        <question id="4">
+            <variants>
+                <variant id="1" text="Географ" character="2"/>
+                <variant id="2" text="Туристический агент" character="3" />
+            </variants>
+	</question>
+        <question id="5">
+            <variants>
+                <variant id="1" text="Метеоролог" character="2"/>
+                <variant id="2" text="Эксперт-оценщик имущества" character="4" />
+            </variants>
+	</question>
+        <question id="6">
+            <variants>
+                <variant id="1" text="Фармацевт" character="1"/>
+                <variant id="2" text="Архитектор" character="6" />
+            </variants>
+	</question>
+        <question id="7">
+            <variants>
+                <variant id="1" text="Налоговый инспектор" character="4"/>
+                <variant id="2" text="Директор по финансам" character="5" />
+            </variants>
+	</question>
+        <question id="8">
+            <variants>
+                <variant id="1" text="Шеф-повар" character="1"/>
+                <variant id="2" text="Офицер федеральной службы безопасности" character="4" />
+            </variants>
+	</question>
+        <question id="9">
+            <variants>
+                <variant id="1" text="Начальник стройки" character="5"/>
+                <variant id="2" text="Проектировщик домов" character="1" />
+            </variants>
+	</question>
+        <question id="10">
+            <variants>
+                <variant id="1" text="Геолог-нефтяник" character="1"/>
+                <variant id="2" text="Контролер качества технологического процесса" character="4" />
+            </variants>
+	</question>
+        <question id="11">
+            <variants>
+                <variant id="1" text="Спасатель" character="3"/>
+                <variant id="2" text="Дизайнер интерьера" character="6" />
+            </variants>
+	</question>
+        <question id="12">
+            <variants>
+                <variant id="1" text="Маркетолог" character="5"/>
+                <variant id="2" text="Агент по недвижимости" character="3" />
+            </variants>
+	</question>
+        <question id="13">
+            <variants>
+                <variant id="1" text="Тренер-инструктор" character="3"/>
+                <variant id="2" text="Инженер мобильной связи" character="1" />
+            </variants>
+	</question>
+        <question id="14">
+            <variants>
+                <variant id="1" text="Машинист электропоезда" character="1"/>
+                <variant id="2" text="Логопед" character="3" />
+            </variants>
+	</question>
+        <question id="15">
+            <variants>
+                <variant id="1" text="Студийный фотограф" character="6"/>
+                <variant id="2" text="Лингвист-востоковед" character="2" />
+            </variants>
+	</question>
+        <question id="16">
+            <variants>
+                <variant id="1" text="Искусствовед" character="2"/>
+                <variant id="2" text="Преподаватель физико-математических наук" character="3" />
+            </variants>
+	</question>
+        <question id="17">
+            <variants>
+                <variant id="1" text="Гид-переводчик" character="3"/>
+                <variant id="2" text="Начальник отдела кадров" character="5" />
+            </variants>
+	</question>
+        <question id="18">
+            <variants>
+                <variant id="1" text="Спортивный арбитр" character="4"/>
+                <variant id="2" text="Веб-дизайнер" character="6" />
+            </variants>
+	</question>
+        <question id="19">
+            <variants>
+                <variant id="1" text="Руководитель предприятия" character="5"/>
+                <variant id="2" text="Обозреватель политических событий" character="6" />
+            </variants>
+	</question>
+        <question id="20">
+            <variants>
+                <variant id="1" text="Редактор научной литературы" character="2"/>
+                <variant id="2" text="Аудитор" character="4" />
+            </variants>
+	</question>
+        <question id="21">
+            <variants>
+                <variant id="1" text="Врач-нарколог" character="3"/>
+                <variant id="2" text="Командир военной части" character="5" />
+            </variants>
+	</question>
+        <question id="22">
+            <variants>
+                <variant id="1" text="Водолаз" character="1"/>
+                <variant id="2" text="Бактериолог" character="2" />
+            </variants>
+	</question>
+        <question id="23">
+            <variants>
+                <variant id="1" text="Ученый-экономист" character="2"/>
+                <variant id="2" text="Директор супермаркета" character="5" />
+            </variants>
+	</question>
+        <question id="24">
+            <variants>
+                <variant id="1" text="Инженер-конструктор" character="2"/>
+                <variant id="2" text="Управляющий производством" character="5" />
+            </variants>
+	</question>
+        <question id="25">
+            <variants>
+                <variant id="1" text="Поэт-переводчик" character="6"/>
+                <variant id="2" text="Ученый в области геологии" character="2" />
+            </variants>
+	</question>
+        <question id="26">
+            <variants>
+                <variant id="1" text="Судья" character="4"/>
+                <variant id="2" text="Психоаналитик" character="3" />
+            </variants>
+	</question>
+        <question id="27">
+            <variants>
+                <variant id="1" text="Инженер-испытатель двигателей" character="1"/>
+                <variant id="2" text="Главный инженер по строительству" character="5" />
+            </variants>
+	</question>
+        <question id="28">
+            <variants>
+                <variant id="1" text="Инструктор по фитнесу" character="3"/>
+                <variant id="2" text="Журналист" character="6" />
+            </variants>
+	</question>
+        <question id="29">
+            <variants>
+                <variant id="1" text="Ревизор" character="4"/>
+                <variant id="2" text="Директор театра" character="5" />
+            </variants>
+	</question>
+        <question id="30">
+            <variants>
+                <variant id="1" text="Травматолог" character="3"/>
+                <variant id="2" text="Сотрудник ГИБДД" character="4" />
+            </variants>
+	</question>
+        <question id="31">
+            <variants>
+                <variant id="1" text="Ученый-математик" character="2"/>
+                <variant id="2" text="Авиадиспетчер" character="4" />
+            </variants>
+	</question>
+        <question id="32">
+            <variants>
+                <variant id="1" text="Кинорежиссер" character="5"/>
+                <variant id="2" text="Артист в шоу-бизнесе" character="6" />
+            </variants>
+	</question>
+        <question id="33">
+            <variants>
+                <variant id="1" text="Дознаватель" character="3"/>
+                <variant id="2" text="Водитель транспортного средства" character="1" />
+            </variants>
+	</question>
+        <question id="34">
+            <variants>
+                <variant id="1" text="Инкассатор" character="4"/>
+                <variant id="2" text="Специалист по ремонту автомобилей" character="1" />
+            </variants>
+	</question>
+        <question id="35">
+            <variants>
+                <variant id="1" text="Педиатр" character="3"/>
+                <variant id="2" text="Имиджмейкер" character="5" />
+            </variants>
+	</question>
+        <question id="36">
+            <variants>
+                <variant id="1" text="Пожарный" character="1"/>
+                <variant id="2" text="Комментатор соревнований" character="3" />
+            </variants>
+	</question>
+        <question id="37">
+            <variants>
+                <variant id="1" text="Судовой электромеханик" character="1"/>
+                <variant id="2" text="Штурман корабля" character="5" />
+            </variants>
+	</question>
+        <question id="38">
+            <variants>
+                <variant id="1" text="Главный бухгалтер" character="4"/>
+                <variant id="2" text="Капитан корабля" character="5" />
+            </variants>
+	</question>
+        <question id="39">
+            <variants>
+                <variant id="1" text="Ди-джей" character="6"/>
+                <variant id="2" text="Программист" character="4" />
+            </variants>
+	</question>
+        <question id="40">
+            <variants>
+                <variant id="1" text="Хранитель музейных фондов" character="2"/>
+                <variant id="2" text="Декан факультета" character="5" />
+            </variants>
+	</question>
+        <question id="41">
+            <variants>
+                <variant id="1" text="Корреспондент" character="6"/>
+                <variant id="2" text="Предприниматель" character="5" />
+            </variants>
+	</question>
+        <question id="42">
+            <variants>
+                <variant id="1" text="Взрывотехник" character="1"/>
+                <variant id="2" text="Каскадер" character="6" />
+            </variants>
+	</question>
+        <question id="43">
+            <variants>
+                <variant id="1" text="Инженер садово-паркового хозяйства" character="2"/>
+                <variant id="2" text="Научный сотрудник в области генетики" character="2" />
+            </variants>
+	</question>
+        <question id="44">
+            <variants>
+                <variant id="1" text="Океанолог" character="1"/>
+                <variant id="2" text="Врач-терапевт" character="3" />
+            </variants>
+	</question>
+        <question id="45">
+            <variants>
+                <variant id="1" text="Авиационный механик" character="1"/>
+                <variant id="2" text="Физик-ядерщик" character="2" />
+            </variants>
+	</question>
+    </questions>
+</root>

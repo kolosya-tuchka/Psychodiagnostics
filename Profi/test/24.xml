@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Я предпочитаю работать в одиночестве." character="1">
+            <variants>
+                <variant id="1" text="0" />
+                <variant id="2" text="1" />
+		<variant id="3" text="2" />	
+		<variant id="4" text="3" />
+                <variant id="5" text="4" />
+		<variant id="6" text="5" />
+		<variant id="7" text="6" />
+                <variant id="8" text="7" />
+		<variant id="9" text="8" />
+		<variant id="10" text="9" />
+		<variant id="11" text="10" />
+             </variants>
+	</question>
+        <question id="2" name="2. Я стараюсь знакомиться как можно с большим числом людей." character="3">
+	</question>
+        <question id="3" name="3. Я всегда стараюсь убедиться в точности полученной информации." character="6">
+	</question>
+        <question id="4" name="4. Часто я говорю или делаю что–то, не подумав как следует." character="7">
+	</question>
+        <question id="5" name="5. Мне трудно отвлечься от проблем." character="5">
+	</question>
+        <question id="6" name="6.Я заранее готовлюсь к возможным трудностям." character="8">
+	</question>
+        <question id="7" name="7. Если я хочу высказаться, никто меня не остановит." character="3">
+	</question>
+        <question id="8" name="8. Я предпочитаю, чтобы кто – то другой брал на себя роль лидера." character="4">
+	</question>
+        <question id="9" name="9. Мне не нравится делать то, что слишком отличается от того, что делают мои друзья." character="2">
+	</question>
+        <question id="10" name="10. Меня волнуют чувства других людей." character="5">
+	</question>
+        <question id="11" name="11. Я стараюсь, чтобы то, что я делаю, было сделано как можно лучше." character="8">
+	</question>
+        <question id="12" name="12. Я хорошо понимаю проблемы других людей. " character="5">
+	</question>
+        <question id="13" name="13. Я стараюсь по мере возможности избегать обсуждения чувств." character="6">
+	</question>
+        <question id="14" name="14. Я стараюсь не реагировать поспешно. "  character="8">
+	</question>
+        <question id="15" name="15. Я лучше справляюсь с делом в одиночку." character="2">
+	</question>
+        <question id="16" name="16. Я не очень люблю бывать в обществе." character="4">
+	</question>
+        <question id="17" name="17. В свободное время я предпочитаю развлекаться." character="7">
+	</question>
+        <question id="18" name="18. Я стараюсь не обращать внимания на чувства других людей. " character="6">
+	</question>
+        <question id="19" name="19. Мне легко наскучить." character="7">
+	</question>
+        <question id="20" name="20. Я менее впечатлителен, чем окружающие. " character="6">
+	</question>
+        <question id="21" name="21. Меня трудно переубедить." character="6">
+	</question>
+        <question id="22" name="22. Мне интересно все время делать что-то новое. " character="7">
+	</question>
+        <question id="23" name="23. Больше всего мне нравится развлекать своих друзей." character="2">
+	</question>
+        <question id="24" name="24. Я всегда стараюсь сдерживать раздражение." character="4">
+	</question>
+        <question id="25" name="25. Я всегда открыто высказываю свое мнение." character="3">
+	</question>
+        <question id="26" name="26. Мне бывает трудно заснуть из-за того, что я прокручиваю в голове прошедшие события." character="5">
+	</question>
+        <question id="27" name="27. Я не ищу себе компании." character="1">
+	</question>
+        <question id="28" name="28. Я спокойный человек." character="8">
+	</question>
+        <question id="29" name="29. Я легко принимаю самостоятельные решения." character="1">
+	</question>
+        <question id="30" name="30. Я не люблю переубеждать кого-то." character="4">
+	</question>
+        <question id="31" name="31. Мне не трудно упорно заниматься одним делом." character="8">
+	</question>
+        <question id="32" name="32. Я могу быстро изменить свое мнение." character="7">
+	</question>
+        <question id="33" name="33. В обществе я часто становлюсь центром внимания." character="3">
+	</question>
+        <question id="34" name="34. Не вижу ничего дурного в том, чтобы делиться секретами с друзьями." character="2">
+	</question>
+        <question id="35" name="35. Меня считают проницательным." character="5">
+	</question>
+        <question id="36" name="36. Обычно я соглашаюсь, если собеседник горячо убеждает в чем-то." character="4">
+	</question>
+        <question id="37" name="37. Я обычно побеждаю в спорах." character="3">
+	</question>
+        <question id="38" name="38. Для меня не особенно важно иметь друзей." character="1">
+	</question>
+        <question id="39" name="39. Мне не нравится, когда кто-то «вторгается» на мою территорию." character="1">
+	</question>
+        <question id="40" name="40. Я всегда рад, когда мне звонят по телефону." character="2">
+	</question>
+    </questions>
+</root>

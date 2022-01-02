@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1.часто ли вы бываете в центре внимания окружающих?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="2" name="2. считаете ли вы, что многие из окружающих вас людей занимают более высокое положение по службе, чем вы?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="3" name="3. находясь на собрании людей, равных вам по служебному положению, испытываете ли вы желание не высказывать своего мнения, даже когда это необходимо?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="4" name="4. когда вы были ребенком, нравилось ли вам быть лидером среди сверстников" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="5" name="5. испытываете ли вы удовольствие, когда вам удается убедить кого-то в чем-то?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="6" name="6. случается ли, что вас называют нерешительным человеком?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="7" name="7. согласны ли вы с утверждением : Все самое полезное в мире есть результат деятельности небольшого числа выдающихся людей?  " >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="8" name="8. Испытываете ли вы настоятельную необходимость в советчике, который мог бы направить вашу профессиональную активность?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="9" name="9. Теряли вы иногда хладнокровие в разговоре с людьми" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="10" name="10. Доставляет ли вам удовольствие видеть, что окружающие побаиваются вас?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		 <question id="11" name="11. Стараетесь ли вы занимать за столом такое место, которое позволяет вам быть в центре внимания и контролировать ситуацию?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="12" name="12. Считаете ли вы, что производите на людей внушительное впечатление?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="13" name="13. Считаете ли вы себя мечтателем?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="14" name="14.Теряетесь ли вы, если люди, окружающие вас, выражают несогласие с вами?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="15" name="15. Случалось ли вам по личной инициативе заниматься организацией рабочих, спортивных и других команд и коллективов" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="16" name="16. Если то, что вы предложили, не дало ожидаемых результатов, то вы:" >
+            <variants>
+                <variant id="1" text="a) будете рады, если ответственность за это дело возложат на кого-нибудь другого " bal="0"/>
+                <variant id="2" text="b) возьмете на себя ответственность и сами доведете дело до конца" bal="1"/>
+            </variants>
+		</question>
+		<question id="17" name="17. Какое из двух мнений вам ближе?" >
+            <variants>
+                <variant id="1" text="a) настоящий руководитель должен сам делать дело, которым он руководит, и лично участвовать в нем.  " bal="1"/>
+                <variant id="2" text="b) настоящий руководитель должен только уметь руководить другими и не обязан заниматься делом сам." bal="0"/>
+            </variants>
+		</question>
+		<question id="18" name="18. С кем вы предпочитаете работать?" >
+            <variants>
+                <variant id="1" text="a) с покорными людьми " bal="0"/>
+                <variant id="2" text="b) с независимыми и самостоятельными людьми" bal="1"/>
+            </variants>
+		</question>
+		<question id="19" name="19. Стараетесь ли вы избегать острых дискуссий?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="20" name="20. Когда вы были ребенком, часто ли вы сталкивались с властностью вашего отца?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		 <question id="21" name="21. Умеете ли вы в дискуссии на профессиональную тему привлечь на свою сторону тех, кто раньше был с вами не согласен?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="22" name="22. Представьте себе такую сцену: во время прогулки с друзьями по лесу вы потеряли дорогу. Приближается вечер и нужно принимать решение. Как вы поступите?" >
+            <variants>
+                <variant id="1" text="a) дадите возможность принять решение наиболее компетентному из вас " bal="1"/>
+                <variant id="2" text="b) просто не будете ничего делать, расчитывая на других" bal="0"/>
+            </variants>
+		</question>
+		<question id="23" name="23. Есть такая пословица : Лучше быть первым в деревне, чем вторым в городе. Справедлива ли она?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="24" name="24.Считаете ли вы себя человеком, оказывающим влияние на других?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="25" name="25. Может ли неудача в проявлении инициативы заставить вас больше никогда этого не делать?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="26" name="26. Кто, с вашей точки зрения,истиный лидер?" >
+            <variants>
+                <variant id="1" text="a) самый компетентный человек  " bal="1"/>
+                <variant id="2" text="b) тот, у кого самый сильный характер" bal="0"/>
+            </variants>
+		</question>
+		<question id="27" name="27. Всегда ли вы стараетесь понять и по достоинству оценить людей?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="28" name="28. Уважаете ли вы дисциплину?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="29" name="29. Какой из следующих двух руководителей для вас предпочтительнее? " >
+            <variants>
+                <variant id="1" text="a) тот, который все решает сам " bal="0"/>
+                <variant id="2" text="b) тот, который всегда советуется и прислушивается к мнениям других " bal="1"/>
+            </variants>
+		</question>
+		<question id="30" name="30. Какой из следующих стилей руководства, по вашему мнению, наилучший для работыучреждения того типа, в котором вы работатете? " >
+            <variants>
+                <variant id="1" text="a) коллегиальный " bal="0"/>
+                <variant id="2" text="b) авторитарный " bal="1"/>
+            </variants>
+		</question>
+		 <question id="31" name="31. Часто ли у вас создается впечатление, что другие злоупотребляют вами? " >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="32" name="32. Какой из следующих портретов больше напоминает вас?" >
+            <variants>
+                <variant id="1" text="a) человек с громким голосом, выразительными жестами,за словом в раман не полезет. " bal="1"/>
+                <variant id="2" text="b) человек со спокойным, тихим голосом, сдержанный, задумчивый" bal="0"/>
+            </variants>
+		</question>
+		<question id="33" name="33. Как вы поведете себя на собрании и совещании, если считаете свое мнение единственно правильным, но остольные с вами не согласны?" >
+            <variants>
+                <variant id="1" text="a) промолчите" bal="0"/>
+                <variant id="2" text="b) будете отстаивать  свое мнение" bal="1"/>
+            </variants>
+		</question>
+		<question id="34" name="34. Подчиняете ли вы свои интересы и поведение других людей делу, которым занимаетесь?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="35" name="35. Возникает ли у вас чувство тревоги, если на вас возложена ответственность за какое-либо важное дело?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="36" name="36.Что бы вы предпочли?" >
+            <variants>
+                <variant id="1" text="a) работать под руководством хорошего человека" bal="0"/>
+                <variant id="2" text="b) работать самостоятельно, без руководителя" bal="1"/>
+            </variants>
+		</question>
+		<question id="37" name="37. Согласны ли вы с утверждением: Для того, чтобы семейная жизнь была хорошей, необходимо, чтобы решение в семье принимал один из супруго?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="38" name="38. Случалось ли вам покупать что-либо под влиянием мнения других людей, а не исходя из собственной потребности?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="39" name="39. Считаете ли вы свои организаторские способности хорошими?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="40" name="40. Как вы ведете себя, столкнувшись струдностями?" >
+            <variants>
+                <variant id="1" text="a) опускаете руки " bal="0"/>
+                <variant id="2" text="b) появляется сильное желание их преодолеть" bal="1"/>
+            </variants>
+		</question>
+		 <question id="41" name="41. Делаете ли вы упреки людям, если они этого заслуживают?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="42" name="42. Считаете ли вы, что ваша нервная система способна выдержать жизненые нагрузки?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="43" name="43. Как вы поступаете, если вам предложат реорганизовать ваше учреждение?" >
+            <variants>
+                <variant id="1" text="a) введу нужные изменения " bal="1"/>
+                <variant id="2" text="b) не буду торопиться и сначала все тщательно обдумаю" bal="0"/>
+            </variants>
+		</question>
+		<question id="44" name="44. Сумеете ли вы прервать слишком болтливого собеседника, если это необходимо?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="45" name="45. Согласны ли вы с утверждением: Для того чтобы быть  счастливым, надо жить незаметно?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="46" name="46. Считаете ли вы, что каждый человек должен сделать что-либо выдающееся?" >
+            <variants>
+                <variant id="1" text="a) да " bal="1"/>
+                <variant id="2" text="b) нет" bal="0"/>
+            </variants>
+		</question>
+		<question id="47" name="47. Кем вы предпочли бы стать?" >
+            <variants>
+                <variant id="1" text="a) художником, поэтом, композитором, ученым " bal="0"/>
+                <variant id="2" text="b) выдающимся руководителем, политическим деятелем" bal="1"/>
+            </variants>
+		</question>
+		<question id="48" name="48. Какую музыку вам приятнее слушать?" >
+            <variants>
+                <variant id="1" text="a) громкую и торжественную " bal="1"/>
+                <variant id="2" text="b) тихую и лирическую" bal="0"/>
+            </variants>
+		</question>
+		<question id="49" name="49. Испытываете ли вы волнение, ожидая встречи с важными и известными людьми?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		<question id="50" name="50. Часто ли вы встречали людей с более сильной волей, чем ваша?" >
+            <variants>
+                <variant id="1" text="a) да " bal="0"/>
+                <variant id="2" text="b) нет" bal="1"/>
+            </variants>
+		</question>
+		
+	</questions>
+</root>

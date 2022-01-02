@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1.Не чувствую в себе уверенности">
+		<variants>
+                <variant id="1" text="1.Да, это состояние мне присуще часто" />
+                <variant id="2" text="2.Такое состояние у меня иногда бывает" />
+				<variant id="3" text="3.Нет, это мне совсем не подходит" />
+		</variants>
+		</question>
+		<question id="2" name="2.Часто краснею из-за пустяков">
+		</question>
+		<question id="3" name="3.Мой сон беспокоен">
+		</question>
+		<question id="4" name="4.Легко впадаю в уныние">
+		</question>
+		<question id="5" name="5.Беспокоюсь о воображаемых неприятностях">
+		</question>
+		<question id="6" name="6.Меня пугают трудности">
+		</question>
+		<question id="7" name="7.Люблю копаться в своих недостатках">
+		</question>
+		<question id="8" name="8.Меня легко убедить">
+		</question>
+		<question id="9" name="9.Я мнительный">
+		</question>
+		<question id="10" name="10.Я с трудом переношу время ожидания">
+		</question>
+		<question id="11" name="11.Нередко мне кажутся безвыходными положения, из которых другие могут найти выход">
+		</question>
+		<question id="12" name="12.Неприятности меня сильно расстраиваю, я падаю духом">
+		</question>
+		<question id="13" name="13.При больших неприятностях я склонен без достаточных оснований винить себя">
+		</question>
+		<question id="14" name="14.Несчастья и неудачи ничему меня не учат">
+		</question>
+		<question id="15" name="15.Я часто отказываюсь от борьбы, считая ее  бесполезной">
+		</question>
+		<question id="16" name="16.Я нередко чувствую себя беззащитным">
+		</question>
+		<question id="17" name="17.Иногда у меня бываетсостояние отчаяния">
+		</question>
+		<question id="18" name="18.Я чувствую растрянность перед трудностями">
+		</question>
+		<question id="19" name="19.В трудные минуты жизни яя иногда веду себя по-детски,хочу, чтобы меня пожалели">
+		</question>
+		<question id="20" name="20.Считаю недостатки своего характера неисправимыми">
+		</question>
+		 <question id="21" name="21.Оставляю за собой последнее слово">
+		</question>
+		<question id="22" name="22.В разговоре нередко перебиваю собеседника">
+		</question>
+		<question id="23" name="23.Меня легко рассердить">
+		</question>
+		<question id="24" name="24.Люблю делать замечания другим">
+		</question>
+		<question id="25" name="25.Хочу быть авторитетом для других">
+		</question>
+		<question id="26" name="26.Не довольствуюсь малым, хочу большего">
+		</question>
+		<question id="27" name="27.Когда разгневаюсь, плохо сдерживаюсь">
+		</question>
+		<question id="28" name="28.Предпочитаю руководить, а не подчиняться">
+		</question>
+		<question id="29" name="29.У меня резкая, грубоватая жестикуляция">
+		</question>
+		<question id="30" name="30.Я мстителен">
+		</question>
+		<question id="31" name="31.Мне трудно менять привычки">
+		</question>
+		<question id="32" name="32.Мне нелегко переколючать внимание">
+		</question>
+		<question id="33" name="33.Очень настороженно отношусь ко всему новому">
+		</question>
+		<question id="34" name="34. Меня трудно переубедить">
+		</question>
+		<question id="35" name="35.Нередко у меня не выыходит из головы мысль, от которой следовало бы освободиться">
+		</question>
+		<question id="36" name="36.Нелегко сближаюсь с людьми">
+		</question>
+		<question id="37" name="37.Меня расстраивают даже незначительные нарушения плана">
+		</question>
+		<question id="38" name="38.Нередко я проявляю упрямство">
+		</question>
+		<question id="39" name="39.Неохотно иду на риск">
+		</question>
+		<question id="40" name="40.Редко переживаю отклонения от принятого мною режима дня">
+		</question>
+	
+	</questions>
+</root>

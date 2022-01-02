@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1.Я несчастлив, поскольку занимаюсь многими вещами в одиночку">
+		  <variants>
+                <variant id="1" text="a) часто." />
+                <variant id="2" text="b) иногда." />
+				<variant id="3" text="c) редко." />
+                <variant id="4" text="d) никогда." />
+
+		            </variants>
+		</question>
+		<question id="2" name="2.Мне не с кем поговорить">
+		</question>
+		<question id="3" name="3.Для меня невыносимо бвть таким одиноким">
+		</question>
+		<question id="4" name="4.Мне не хватает общения">
+		</question>
+		<question id="5" name="5.Я чувствую, будто никто не понимает меня">
+		</question>
+		<question id="6" name="6.Я нахожусь в ожидании, что мне позвонят или напишут">
+		</question>
+		<question id="7" name="7.Нет никого, к кому я мог бы обратиться">
+		</question>
+		<question id="8" name="8.Я сейчас ни с кем не поддерживаю близких отношений">
+		</question>
+		<question id="9" name="9.Те, кто меня окружают, не разделают мои интересы и идеи">
+		</question>
+		<question id="10" name="10. Я чувствую себя покинутым ">
+		</question>
+		<question id="11" name="11. Я чувствую, что никому не нужен">
+		</question>
+		<question id="12" name="12.Я чувствую себя совершенно одиноким">
+		</question>
+		<question id="13" name="13. Мои отношения с людьми поверхностны">
+		</question>
+		<question id="14" name="14.Я умираю от тоски по компании">
+		</question>
+		<question id="15" name="15.Никто как следует меня не знает">
+		</question>
+		<question id="16" name="16. Я чувствую себя изолированным от других">
+		</question>
+		<question id="17" name="17.Мне трудно заводить знакомства">
+		</question>
+		<question id="18" name="18.Я чувствую себя исключенным и изолированным другими">
+		</question>
+		<question id="19" name="19.Люди вокруг меня, но нее со мной">
+		</question>
+		<question id="20" name="20.Люди сами по себе, а я -сам по себе">
+		</question>
+		
+		
+		
+		
+	</questions>
+</root>

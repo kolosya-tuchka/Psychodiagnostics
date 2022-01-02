@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Часто ли вы испытываете тягу к новым впечатлениям, поискам приключений, смене обстановки? " character="1" bal="1" >
+            <variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="нет"/>
+            </variants>
+	</question>
+        
+       <question id="2" name="2. Часто ли вы нуждаетесь в друзьях, которые понимают все, могут ободрить и утешить? " character="2" bal="1">
+           
+	</question>
+
+	<question id="3" name="3. Вы человек беспечный, беззаботный? " character="1" bal="1">
+           
+	</question>
+	
+	<question id="4" name="4. Очень ли вам трудно сказать кому-то «нет»? " character="2" bal="1">
+           
+	</question>
+
+	<question id="5" name="5. Задумываетесь ли вы перед тем, как что-то предпринимать? " character="1" bal="2">
+           
+	</question>
+
+	<question id="6" name="6. Если вы обещаете что-либо сделать, то всегда ли сдерживаете свое слово? " character="3" bal="1">
+           
+	</question>
+
+	<question id="7" name="7. Часто ли у вас меняется настроение?" character="2" bal="1">
+           
+	</question>
+	
+	<question id="8" name="8. Обычно вы действуете и говорите быстро, не задумываясь? " character="1" bal="1">
+           
+	</question>
+
+	<question id="9" name="9. Часто ли вы чувствуете себя несчастным человеком, без достаточных на то причин?" character="2" bal="1">
+           
+	</question>
+
+	<question id="10" name="10. Упорно ли вы спорите, до конца отстаивая свою точку зрения? " character="1" bal="1">
+           
+	</question>
+
+	<question id="11" name="11. Появляется ли у вас чувство робости или смущения, когда хотите познакомиться с симпатичным представителем противоположного пола?" character="2" bal="1">
+           
+	</question>
+	
+	<question id="12" name="12. Выходите ли вы иногда из себя, сердясь не на шутку?" character="3" bal="2">
+           
+	</question>
+
+	<question id="13" name="13. Часто ли вы действуете под влиянием минутного настроения?" character="1" bal="1">
+           
+	</question>
+
+	<question id="14" name="14. Часто ли вы переживаете от того, что сделали или сказали такое, что не следовало бы?" character="2" bal="1">
+           
+	</question>
+
+	<question id="15" name="15. Отдаете ли вы обычно предпочтение книгам, а не встречам с друзьями? " character="1" bal="1">
+           
+	</question>
+	
+	<question id="16" name="16. Легко ли вас обидеть?" character="2" bal="1">
+           
+	</question>
+
+	<question id="17" name="17. Любите ли вы часто бывать в компаниях? " character="1" bal="1">
+           
+	</question>
+
+	<question id="18" name="18. Возникают ли у вас мысли, которые хотели бы скрыть от других? " character="3" bal="2">
+           
+	</question>
+	
+	<question id="19" name="19. Бывает ли так, что иногда вы так полны энергией, что все горит в руках, а иногда вялы? " character="2" bal="1">
+           
+	</question>
+
+	<question id="20" name="20. Предпочитаете ли вы иметь меньше друзей, но зато особенно близких? " character="1" bal="2">
+           
+	</question>
+
+	<question id="21" name="21. Часто ли вы мечтаете?" character="2" bal="1">
+           
+	</question>
+	
+	<question id="22" name="22. Когда с вами говорят на повышенных тонах, отвечаете ли тем же? " character="1" bal="1">
+           
+	</question>
+
+	<question id="23" name="23. Часто ли вас беспокоит чувство вины?" character="2" bal="1">
+           
+	</question>
+
+	<question id="24" name="24. Все ли ваши привычки хороши и желательны?" character="3" bal="1">
+           
+	</question>
+
+	<question id="25" name="25. Способны ли вы дать волю своим чувствам и как следует повеселиться в компании? " character="1" bal="1">
+           
+	</question>
+	
+	<question id="26" name="26. Считаете ли вы себя человеком возбудимым и чувствительным?" character="2" bal="1">
+           
+	</question>
+
+	<question id="27" name="27. Считают ли вас окружающие живым и веселым человеком? " character="1" bal="1">
+           
+	</question>
+	
+	<question id="28" name="28. Часто ли вы, сделав какое-нибудь важное дело, испытываете такое чувство, что могли бы сделать его лучше?" character="2" bal="1">
+           
+	</question>
+
+	<question id="29" name="29. Когда находитесь в обществе других людей, вы больше молчите?" character="1" bal="2">
+           
+	</question>
+
+	<question id="30" name="30. Не бывает ли так, что иногда вы сплетничаете?" character="3" bal="2">
+           
+	</question>
+
+	<question id="31" name="31. Случается ли так, что вы не можете заснуть от того, что в голову лезут разные мысли?" character="2" bal="1">
+           
+	</question>
+	
+	<question id="32" name="32. Если вы хотите узнать о чем-нибудь, то предпочтете прочитать об этом в книге, газете, чем спросить?" character="1" bal="2">
+           
+	</question>
+
+	<question id="33" name="33. Бывает ли у вас сильное сердцебиение?" character="2" bal="1">
+           
+	</question>
+
+	<question id="34" name="34. Нравится ли вам работа, требующая постоянного внимания? " character="1" bal="1">
+           
+	</question>
+
+	<question id="35" name="35. Бывает ли такое состояние, что вас бросает в дрожь от волнения в какой-то экстремальной ситуации? " character="2" bal="1">
+           
+	</question>
+	
+	<question id="36" name="36. Всегда ли вы платили бы за провоз багажа в транспорте, если бы не опасались проверки?" character="3" bal="1">
+           
+	</question>
+
+	<question id="37" name="37. Неприятно ли вам находиться в обществе, где подшучивают, насмехаются друг над другом" character="1" bal="2">
+           
+	</question>
+	
+	<question id="38" name="38. Вы раздражительны?" character="2" bal="1">
+           
+	</question>
+
+	<question id="39" name="39. Нравится ли вам работа, которая требует быстроты действий?" character="1" bal="1">
+           
+	</question>
+
+	<question id="40" name="40. Волнуетесь ли вы по поводу неприятных событий?" character="2" bal="1">
+           
+	</question>
+
+	<question id="41" name="41. Вы ходите медленно, не спеша? " character="1" bal="2">
+           
+	</question>
+	
+	<question id="42" name="42. Вы когда-нибудь опаздывали на работу или встречу?" character="3" bal="2">
+           
+	</question>
+
+	<question id="43" name="43. Часто ли вы видите кошмарные сны?" character="2" bal="1">
+           
+	</question>
+
+	<question id="44" name="44. Верно ли, что вы так любите поговорить, что никогда не упускаете случая побеседовать даже с незнакомым человеком?" character="1" bal="1">
+           
+	</question>
+
+	<question id="45" name="45. Беспокоят ли вас какие-либо боли?" character="2" bal="1">
+           
+	</question>
+
+	<question id="46" name="46. Вы бы почувствовали себя очень несчастным, если бы длительное время были лишены широкого общения с людьми?" character="1" bal="1">
+           
+	</question>
+
+	<question id="47" name="47. Можно ли назвать вас нервным человеком?" character="2" bal="1">
+           
+	</question>
+	
+	<question id="48" name="48. Есть ли среди знакомых те, которые вам явно не нравятся? " character="3" bal="2">
+           
+	</question>
+
+	<question id="49" name="49. Можно ли сказать, что вы уверенный в себе человек?" character="1" bal="1">
+           
+	</question>
+
+	<question id="50" name="50. Легко ли вы обижаетесь, если другие указывают на ваши ошибки в работе или личные недостатки?" character="2" bal="1">
+           
+	</question>
+
+	<question id="51" name="51. Считаете ли вы, что трудно получить настоящее удовольствие от вечеринки? " character="1" bal="2">
+           
+	</question>
+	
+	<question id="52" name="52. Беспокоит ли вас чувство, что вы чем-то хуже других?" character="2" bal="1">
+           
+	</question>
+
+	<question id="53" name="53. Легко ли вам внести оживление в довольно скучную компанию? " character="1" bal="1">
+           
+	</question>
+
+	<question id="54" name="54. Случается ли говорить о вещах, в которых вы не разбираетесь? " character="3" bal="2">
+           
+	</question>
+
+	<question id="55" name="55. Беспокоитесь ли вы о своем здоровье? " character="2" bal="1">
+           
+	</question>
+
+	<question id="56" name="56. Любите ли вы шутить?" character="1" bal="1">
+           
+	</question>
+
+	<question id="57" name="57. Страдаете ли вы от бессонницы?" character="2" bal="1">
+           
+	</question>
+        
+    </questions>
+</root>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Экономические знания " >
+		 <variants>
+                <variant id="1" text="1" />
+                <variant id="2" text="2"/>
+				<variant id="3" text="3" />
+               <variant id="4" text="4" />
+                <variant id="5" text="5"/>
+				<variant id="6" text="6" />
+				<variant id="7" text="7" />
+            </variants>
+          	</question>
+        <question id="2" name="2. Профессональная эрудиция." character="2">
+	</question>
+        <question id="3" name="3. Умение работать с литературой, справочниками ." character="3">
+	</question>
+        <question id="4" name="4. Умение делать выводы по заданию." character="4">
+	</question>
+        <question id="5" name="5. Умение решать профессиональную задачу." character="5">
+	</question>
+        <question id="6" name="6.  Умение руководить людьми" character="6">
+	</question>
+        <question id="7" name="7. Умение планировать работу." character="7">
+	</question>
+        <question id="8" name="8. Умение распределять работу." character="1">
+	</question>
+        <question id="9" name="9. Умение контролировать работу." character="2">
+	</question>
+        <question id="10" name="10. Умение создавать трудовую атмосферу." character="3">
+	</question>
+        <question id="11" name="11.Умение создавать благоприятные отношение в коллективе ." character="8">
+	</question>
+        <question id="12" name="12. Умение увлечь людей . " character="5">
+	</question>
+        <question id="13" name="13. Умение постоять за коллектив." character="6">
+	</question>
+        <question id="14" name="14. Обязательность. "  character="8">
+	</question>
+        <question id="15" name="15.Требовательность к другим ." character="2">
+	</question>
+        <question id="16" name="16.Требовательность к себе ." character="4">
+	</question>
+        <question id="17" name="17.Критичность ума ." character="7">
+	</question>
+        <question id="18" name="18.  Оригинальность ума. " character="6">
+	</question>
+        <question id="19" name="19. Гибкость ума." character="7">
+	</question>
+        <question id="20" name="20.  Целеустремленность. " character="6">
+	</question>
+        <question id="21" name="21. Находчивость." character="6">
+	</question>
+        <question id="22" name="22. Дальновидность. " character="7">
+	</question>
+        <question id="23" name="23. Сообразительность." character="2">
+	</question>
+        <question id="24" name="24. Доброжелательность ." character="4">
+	</question>
+        <question id="25" name="25.Умение прощать небольшие человеческие слабости ." character="3">
+	</question>
+        <question id="26" name="26. Воспитанность, тактичность." character="5">
+	</question>
+        <question id="27" name="27. Выдержанность  ." character="1">
+	</question>
+        <question id="28" name="28. Умение ладить с людьми." character="8">
+	</question>
+        <question id="29" name="29. Способность понимать других." character="1">
+	</question>
+        <question id="30" name="30. Терпимость к другим." character="4">
+	</question>
+        <question id="31" name="31. Скромность ." character="8">
+	</question>
+        <question id="32" name="32. Работоспособность." character="7">
+	</question>
+        <question id="33" name="33. Продуктивность." character="3">
+	</question>
+        <question id="34" name="34. Энергичность." character="2">
+	</question>
+        <question id="35" name="35. Активность." character="5">
+	</question>
+        <question id="36" name="36. Трудолюбие." character="4">
+	</question>
+        <question id="37" name="37. Увлеченность работой." character="3">
+	</question>
+    </questions>
+</root>

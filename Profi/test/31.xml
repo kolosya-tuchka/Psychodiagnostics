@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Мне легче что-либо сделать, чем объяснить, почему я так сделал" character="1">
+            <variants>
+                <variant id="1" text="согласен" />
+                <variant id="2" text="не согласен"/>
+            </variants>
+	</question>
+        
+       <question name="2. Я люблю составлять программы для компьютера " character="2" >
+           
+	</question>
+
+	 <question name="3. Я люблю читать художественную литературу. " character="3" >
+           
+	</question>
+
+	 <question name="4. Я люблю живопись (скульптуру). " character="4" >
+           
+	</question>
+
+	 <question name="5. Я предпочел бы работу, в которой предоставлена свобода действий. " character="5" >
+           
+	</question>
+
+	 <question name="6. Мне проще усвоить что-либо, если я имею возможность манипулировать с предметами. " character="1" >
+           
+	</question>
+
+	 <question name="7. Я люблю шахматы, шашки. " character="2" >
+           
+	</question>
+
+	 <question name="8. Я легко излагаю свои мысли как в устной, так и в письменной форме.  " character="3" >
+           
+	</question>
+
+	 <question name="9. Я хотел бы заниматься коллекционированием.  " character="4" >
+           
+	</question>
+
+ 	<question name="10. Люблю и понимаю абстрактную живопись. " character="5" >
+           
+	</question>
+	
+	<question name="11. Я скорее хотел бы быть слесарем, чем инженером. " character="1" >
+           
+	</question>
+
+	 <question name="12. Для меня алгебра интереснее, чем геометрия. " character="2" >
+           
+	</question>
+
+	 <question name="13. В художественной литературе для меня важнее не что сказано, а как сказано.  " character="3" >
+           
+	</question>
+
+	 <question name="14. Я люблю посещать зрелищные мероприятия. " character="4" >
+           
+	</question>
+
+	 <question name="15. Мне не нравится регламентированная работа. " character="5" >
+           
+	</question>
+
+	 <question name="16. Мне нравится что-либо делать своими руками. " character="1" >
+           
+	</question>
+
+	 <question name="17. В детстве я любил создавать свой шифр для переписки с друзьями. " character="2" >
+           
+	</question>
+
+	 <question name="18. Я придаю большое значение форме выражения мыслей. " character="3" >
+           
+	</question>
+
+ 	<question name="19. Мне трудно передать содержание рассказа без его образного представления. " character="4" >
+           
+	</question>
+	
+
+	<question name="20. Не люблю посещать музеи, так как все они одинаковы. " character="5" >
+           
+	</question>
+
+	 <question name="21. Любую информацию я воспринимаю как руководство к действию. " character="1" >
+           
+	</question>
+
+	 <question name="22. Меня больше привлекает товарный знак фирмы, чем ее название.  " character="2" >
+           
+	</question>
+
+	 <question name="23. Меня привлекает работа комментатора радио, телевидения.  " character="3" >
+           
+	</question>
+
+	 <question name="24. Знакомые мелодии вызывают у меня в голове определенные картины.  " character="4" >
+           
+	</question>
+
+	 <question name="25. Люблю фантазировать.  " character="5" >
+           
+	</question>
+
+	 <question name="26. Когда я слушаю музыку, мне хочется танцевать.  " character="1" >
+           
+	</question>
+
+	 <question name="27. Мне интересно разбираться в чертежах и схемах. " character="2" >
+           
+	</question>
+
+ 	<question name="28. Мне нравятся уроки литературы. " character="3" >
+           
+	</question>
+	
+	<question name="29. Знакомый запах вызывает всю картину событий, происшедших много лет назад. " character="4" >
+           
+	</question>
+
+	 <question name="30. Разнообразные увлечения делают жизнь человека богаче. " character="5" >
+           
+	</question>
+
+	 <question name="31. Истинно только то, что можно потрогать руками. " character="1" >
+           
+	</question>
+
+	 <question name="32. Я предпочитаю точные науки (математику, физику). " character="2" >
+           
+	</question>
+
+	 <question name="33. Я за словом в карман не лезу. " character="3" >
+           
+	</question>
+
+	 <question name="34. Люблю рисовать. " character="4" >
+           
+	</question>
+
+	 <question name="35. Один и тот же спектакль можно смотреть много раз, главное - игра актеров, новая интерпретация.  " character="5" >
+           
+	</question>
+
+	 <question name="36. Мне нравилось в детстве собирать механизмы из деталей конструктора.  " character="1" >
+           
+	</question>
+
+ 	<question name="37. Мне кажется, что я смог бы изучить стенографию. " character="2" >
+           
+	</question>
+
+	<question name="38. Мне нравится читать стихи вслух.  " character="3" >
+           
+	</question>
+
+	 <question name="39. Я согласен с Ф.М. Достоевским, что красота спасет мир.  " character="4" >
+           
+	</question>
+
+	 <question name="40. Я предпочел бы быть закройщиком, а не портным. " character="5" >
+           
+	</question>
+
+	 <question name="41. Лучше сделать табуретку руками, чем заниматься ее проектированием.  " character="1" >
+           
+	</question>
+
+	 <question name="42. Мне кажется, что я смог бы овладеть профессией программиста. " character="2" >
+           
+	</question>
+
+	 <question name="43. Люблю поэзию. " character="3" >
+           
+	</question>
+
+	 <question name="44. Прежде чем изготовить какую-то деталь, сначала я делаю чертеж. " character="4" >
+           
+	</question>
+
+	 <question name="45. Мне больше нравится процесс деятельности, чем ее конечный результат.  " character="5" >
+           
+	</question>
+
+ 	<question name="46. Для меня лучше поработать в мастерской, нежели изучать чертежи. " character="1" >
+           
+	</question>
+	
+	<question name="47. Мне интересно было бы расшифровать древние тайнописи. " character="2" >
+           
+	</question>
+
+	 <question name="48. Если мне нужно выступить, то я всегда готовлю свою речь, хотя уверен, что найду необходимые слова " character="3" >
+           
+	</question>
+
+	 <question name="49. Больше люблю решать задачи по геометрии, чем по алгебре.  " character="4" >
+           
+	</question>
+
+	 <question name="50. Даже в отлаженном деле пытаюсь творчески изменить что-то.  " character="5" >
+           
+	</question>
+
+	 <question name="51. Я люблю дома заниматься рукоделием, мастерить. " character="1" >
+           
+	</question>
+
+	 <question name="52. Я смог бы овладеть языками программирования. " character="2" >
+           
+	</question>
+
+	 <question name="53. Мне нетрудно написать сочинение на заданную тему.  " character="3" >
+           
+	</question>
+
+	 <question name="54. Мне легко представить образ несуществующего предмета или явления.  " character="4" >
+           
+	</question>
+
+ 	<question name="55. Сомневаюсь даже в том, что для других очевидно. " character="5" >
+           
+	</question>
+
+	<question name="56. Я предпочел бы сам отремонтировать утюг, нежели нести его в мастерскую.  " character="1" >
+           
+	</question>
+
+	 <question name="57. Я легко усваиваю грамматические конструкции языка. " character="2" >
+           
+	</question>
+
+	 <question name="58. Люблю писать письма. " character="3" >
+           
+	</question>
+
+	 <question name="59. Сюжет кинофильма могу представить как ряд образов.  " character="4" >
+           
+	</question>
+
+	 <question name="60. Абстрактные картины дают большую пищу для размышлений. " character="5" >
+           
+	</question>
+
+	 <question name="61. В школе мне больше всего нравились уроки труда, домоводства. " character="1" >
+           
+	</question>
+
+	 <question name="62. У меня не вызывает затруднений изучение иностранного языка.  " character="2" >
+           
+	</question>
+
+	 <question name="63. Я охотно что-то рассказываю, если меня просят друзья. " character="3" >
+           
+	</question>
+
+ 	<question name="64. Я легко могу представить в образах содержание услышанного. " character="4" >
+           
+	</question>
+	
+	<question name="65. Я не хотел бы подчинять свою жизнь определенной системе. " character="5" >
+           
+	</question>
+
+	 <question name="66. Я чаще сначала сделаю, а потом думаю о правильности решения. " character="1" >
+           
+	</question>
+
+	 <question name="67. Думаю, что смог бы изучить китайские иероглифы.  " character="2" >
+           
+	</question>
+
+	 <question name="68. Не могу не поделиться только что услышанной новостью.  " character="3" >
+           
+	</question>
+
+	 <question name="69. Мне кажется, что работа сценариста интересна. " character="4" >
+           
+	</question>
+
+	 <question name="70. Мне нравится работа дизайнера. " character="5" >
+           
+	</question>
+
+	 <question name="71. При решении какой-то проблемы мне легче идти методом проб и ошибок. " character="1" >
+           
+	</question>
+
+	 <question name="72. Если бы у меня была машина, то изучение дорожных знаков не составило бы труда. " character="2" >
+           
+	</question>
+
+ 	<question name="73. Я легко нахожу общий язык с незнакомыми людьми. " character="3" >
+           
+	</question>
+
+	<question name="74. Меня привлекает работа художника-оформителя. " character="4" >
+           
+	</question>
+
+	<question name="75. Не люблю ходить одним и тем же путем." character="5" >
+           
+	</question>
+
+
+	
+
+      
+    </questions>
+</root>

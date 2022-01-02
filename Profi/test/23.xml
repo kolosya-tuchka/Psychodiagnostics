@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root version="1.0">
+    <questions>
+        <question id="1" name="1. Я бы вполне мог жить в одиночестве, далеко от людей " character="1" bal="3" >
+            <variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+	</question>
+        
+       <question id="2" name="2. Когда я ложусь спать, то я " character="2" bal="1">
+	<variants>
+                <variant id="1" text="засыпаю быстро" />
+                <variant id="2" text="нечто среднее"/>
+		<variant id="3" text="засыпаю с трудом"/>
+            </variants>
+           
+	</question>
+
+	<question id="3" name="3. Если бы я вел машину по дороге,где много других автомобилей,то я бы предпочел" character="3" bal="3">
+	<variants>
+                <variant id="1" text="пусть, кто хочет, меня обгоняет" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="обогнал бы все идущие впереди машины"/>
+            </variants>
+           
+	</question>
+	
+	<question id="4" name="4. Находясь в компании, я предоставляю другим
+возможность шутить и рассказывать всякие истории " character="4" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет, лучше сам расскажу"/>
+            </variants>
+           
+	</question>
+
+	<question id="5" name="5. Большинство людей, с которыми я общаюсь, несомненно, рады меня видеть " character="5" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="6" name="6. Я часто замечаю: то, что люди делают, совсем не похоже на то, что они потом рассказывают об этом " character="6" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="7" name="7. Если мне кто-нибудь нагрубит, я могу быстро забыть об этом" character="7" bal="3">
+	<variants>
+                <variant id="1" text="верно" />
+                <variant id="2" text="когда как"/>
+		<variant id="3" text="неверно"/>
+            </variants>
+           
+	</question>
+	
+	<question id="8" name="8. Я скорее раскрыл бы свои сокровенные мысли
+" character="1" bal="1">
+	<variants>
+                <variant id="1" text="моим хорошим друзьям" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="в личном дневнике"/>
+            </variants>
+           
+	</question>
+
+	<question id="9" name="9. Когда это необходимо, у меня всегда хватает энергии" character="2" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="трудно сказать"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="10" name="10. Меня больше раздражают люди, которые
+ " character="3" bal="3">
+	<variants>
+                <variant id="1" text="грубыми шутками заставляют других покрас-
+неть" />
+                <variant id="2" text="затрудняюсь ответить"/>
+		<variant id="3" text="опаздывают на условленную встречу со
+мной"/>
+            </variants>
+           
+	</question>
+
+	<question id="11" name="11. Мне очень нравится приглашать друзей и развлекать их" character="4" bal="1">
+	<variants>
+                <variant id="1" text="верно" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="неверно"/>
+            </variants>
+           
+	</question>
+	
+	<question id="12" name="12. Мне очень часто приходится преодолевать смущение" character="5" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="возможно"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="13" name="13. Если знакомый обманывает меня в мелочах, то я скорее предпочту сделать вид, что не заметил этого, а не «разоблачать» его
+" character="6" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="14" name="14. Меня часто волнуют мои прошлые поступки
+и ошибки" character="7" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="время от времени"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="15" name="15. Думаю, что мне была бы интереснее работа, связанная с  " character="1" bal="3">
+	<variants>
+                <variant id="1" text="техническими устройствами" />
+                <variant id="2" text="трудно сказать"/>
+		<variant id="3" text="людьми"/>
+            </variants>
+           
+	</question>
+	
+	<question id="16" name="16. Если что-то отвлекает мое внимание от того, чем я занимаюсь, эта ситуация " character="2" bal="3">
+	<variants>
+                <variant id="1" text="раздражает меня" />
+                <variant id="2" text="когда как"/>
+		<variant id="3" text="не беспокоит меня"/>
+            </variants>
+           
+	</question>
+
+	<question id="17" name="17. Если я сильно разбогатею, то я позабочусь о том, чтобы " character="3" bal="1">
+	<variants>
+                <variant id="1" text="не вызывать к себе зависти" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="жить, ни в чем себя не стесняя"/>
+            </variants>
+           
+	</question>
+
+	<question id="18" name="18. Худшее наказание для меня " character="4" bal="3">
+	<variants>
+                <variant id="1" text="тяжелая работа" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="быть запертым в одиночестве"/>
+            </variants>
+           
+	</question>
+	
+	<question id="19" name="19. Мне говорили, что ребенкомя был " character="5" bal="3">
+	<variants>
+                <variant id="1" text="спокойным, любил оставаться один" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="живым и подвижным, общительным"/>
+            </variants>
+           
+	</question>
+
+	<question id="20" name="20.Я думаю, что большинство свидетелей говорят правду, даже если это нелегко для них " character="6" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="трудно сказать"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="21" name="21. Я никогда не чувствую себя таким несчастным, что хочется плакать" character="7" bal="3">
+	<variants>
+                <variant id="1" text="верно" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="неверно"/>
+            </variants>
+           
+	</question>
+	
+	<question id="22" name="22. Я скорее предпочел бы работать " character="1" bal="1">
+	<variants>
+                <variant id="1" text="там, где мне пришлось бы все время быть
+среди людей" />
+                <variant id="2" text="затрудняюсь ответить"/>
+		<variant id="3" text="там, где буду трудиться один, в тихой
+комнате"/>
+            </variants>
+           
+	</question>
+
+	<question id="23" name="23. То, что я делаю, у меня не получается" character="2" bal="1">
+	<variants>
+                <variant id="1" text="редко" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="часто"/>
+            </variants>
+           
+	</question>
+
+	<question id="24" name="24. В большинстве дел я" character="3" bal="1">
+	<variants>
+                <variant id="1" text="предпочитаю рискнуть" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="предпочитаю действовать наверняка"/>
+            </variants>
+           
+	</question>
+
+	<question id="25" name="25. Вероятно, некоторые люди считают, что я слишком много говорю " character="4" bal="1">
+	<variants>
+                <variant id="1" text="скорее, это так" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="думаю, что нет"/>
+            </variants>
+           
+	</question>
+	
+	<question id="26" name="26. Я принимаю решения" character="5" bal="1">
+	<variants>
+                <variant id="1" text="быстрее, чем большинство людей" />
+                <variant id="2" text="когда как"/>
+		<variant id="3" text="медленнее, чем большинство людей"/>
+            </variants>
+           
+	</question>
+
+	<question id="27" name="27. Я считаю, что я человек, склонный к сотрудничеству " character="6" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="нечто среднее"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+	
+	<question id="28" name="28. Если человек не отвечает мне сразу, после того как я что-нибудь сказал ему, то я чувствую, что, должно быть, сказал какую-нибудь глупость" character="7" bal="1">
+	<variants>
+                <variant id="1" text="верно" />
+                <variant id="2" text="не знаю"/>
+		<variant id="3" text="неверно"/>
+            </variants>
+                      
+	</question>
+
+	<question id="29" name="29. Мне приятно сделать человеку одолжение, согласившись назначить встречу с ним на время, удобное для него, даже
+если это немного неудобно для меня" character="1" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="в зависимости от того, что это за человек"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="30" name="30. Иногда у меня бывают непродолжительные приступы тошноты или головокружения без определенной причины " character="2" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="очень редко"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="31" name="31. Я предпочту скорее отказаться от своей просьбы, чем доставить лишнее неудобство тому, к кому хочу с ней обратиться" character="3" bal="3">
+	<variants>
+                <variant id="1" text="это так" />
+                <variant id="2" text="вряд ли"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+	
+	<question id="32" name="32. Я в большей мере, чем многие люди, живу сегодняшним днем" character="4" bal="1">
+	<variants>
+                <variant id="1" text="верно" />
+                <variant id="2" text="трудно сказать"/>
+		<variant id="3" text="неверно"/>
+            </variants>
+           
+	</question>
+
+	<question id="33" name="33. Я высказываю свое мнение независимо от того, сколько людей могут его услышать " character="5" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="34" name="34. Иногда мне очень хочется влезть в чужие дела, которые меня не очень-то и касаются" character="6" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="редко"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="35" name="35. Если я вижу, что мой старый друг холоден со мной и избегает меня, я обычно думаю:" character="7" bal="3">
+	<variants>
+                <variant id="1" text="«У него плохое настроение»" />
+                <variant id="2" text="«Ну, всякое бывает...»"/>
+		<variant id="3" text="«Интересно, чем я его обидел?»"/>
+            </variants>
+           
+	</question>
+	
+	<question id="36" name="36. Бывает, что все утро я не желаю ни с кем разговаривать " character="1" bal="3">
+	<variants>
+                <variant id="1" text="часто" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="никогда"/>
+            </variants>
+           
+	</question>
+
+	<question id="37" name="37. Мне бывает скучно" character="2" bal="3">
+	<variants>
+                <variant id="1" text="часто" />
+                <variant id="2" text="время от времени"/>
+		<variant id="3" text="редко"/>
+            </variants>
+           
+	</question>
+	
+	<question id="38" name="38. Мне нравится делать все по-своему, оригинальным способом" character="3" bal="1">
+	<variants>
+                <variant id="1" text="верно" />
+                <variant id="2" text="когда как"/>
+		<variant id="3" text="неверно"/>
+            </variants>
+           
+	</question>
+
+	<question id="39" name="39. Я считаю, что если хочешь сохранить здоровье, то нужно избегать лишних волнений" character="4" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="40" name="40. Я с осторожностью отношусь к завязыванию дружбы с новыми людьми" character="5" bal="3">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+
+	<question id="41" name="41. Я подозреваю, что люди, которых я считаю своими друзьями, на самом деле могут оказаться отнюдь не друзьями" character="6" bal="1">
+	<variants>
+                <variant id="1" text="да, в большинстве случаев" />
+                <variant id="2" text="иногда"/>
+		<variant id="3" text="редко"/>
+            </variants>
+           
+	</question>
+	
+	<question id="42" name="42. У меня бывают необоснованные страхи (неопасных животных, каких-либо мест и т. п.)" character="7" bal="1">
+	<variants>
+                <variant id="1" text="да" />
+                <variant id="2" text="изредка"/>
+		<variant id="3" text="нет"/>
+            </variants>
+           
+	</question>
+	      
+    </questions>
+</root>
